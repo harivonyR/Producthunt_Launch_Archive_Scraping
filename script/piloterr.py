@@ -69,5 +69,5 @@ def website_rendering(site_url, wait_in_seconds=5, scroll=0):
 
 
 if __name__ == "__main__":
-    product_hunt_url = "https://www.producthunt.com/leaderboard/daily/2025/11/22?ref=header_nav"
+    product_hunt_url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
     html = website_crawler(product_hunt_url)
