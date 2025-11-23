@@ -24,7 +24,6 @@ def find_with_classes(soup, classes):
 def scrape_launch_list(url):
     """ return list of product found in a roducthunt launch archive """
     
-    url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
     html = website_crawler(url)
     
     if not html:
@@ -66,5 +65,8 @@ def scrape_launch_list(url):
     """
 
 if __name__ == "__main__" :
-    url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
+    #url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
+    #url = "https://www.producthunt.com/leaderboard/yearly/2025"
+    #url = "https://www.producthunt.com/leaderboard/daily/2025/1/1"
+    url = "https://www.producthunt.com/leaderboard/daily/2025/1/8"
     products_hunt = scrape_launch_list(url)
