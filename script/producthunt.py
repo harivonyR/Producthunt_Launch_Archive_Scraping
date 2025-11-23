@@ -22,6 +22,8 @@ def find_with_classes(soup, classes):
     )
 
 def scrape_launch_list(url):
+    """ return list of product found in a roducthunt launch archive """
+    
     url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
     html = website_crawler(url)
     
@@ -29,29 +31,39 @@ def scrape_launch_list(url):
         return []
 
     soup = BeautifulSoup(html, "html.parser")
-    _class = ["isolate", "flex-row", "items-start"]
-
-    items = find_with_all_classes(soup,_class)
+    _class = ["isolate", "flex-row", "items-start"] # ckass list of items caracteristics
     
+    result = []
+    
+    for item in find_with_all_classes(soup,_class):
+        a = find_with_all_classes(item, ["text-14","font-semibold","leading-none"])
+        
+        #print(item.find("a").text)
+        data = {
+            "title" : item.find("a").text,
+            "product_url" : "https://www.producthunt.com"+item.find("a").get('href'),
+            "source_url" : url,
+            "description" : find_with_classes(item, ["text-16", "font-normal", "text-dark-gray", "text-secondary"]).text,
+            "tags" : [i.text for i in find_with_all_classes(item, ["text-14","font-normal","text-dark-gray"])],
+            "comment" : a[0].text if len(a) > 0 else None,
+            "upvote" : a[1].text if len(a) > 1 else None
+            }
+        result.append(data)
+    return result
+    
+    
+    """
+    # line by line test
     item = items[0]
     title = item.find("a").text
+    product_url = "https://www.producthunt.com/"+item.find("a").get('href')
     description = find_with_classes(item, ["text-16", "font-normal", "text-dark-gray", "text-secondary"]).text
     tags = [i.text for i in find_with_all_classes(item, ["text-14","font-normal","text-dark-gray"])]
     
+    a = find_with_all_classes(item, ["text-14","font-semibold","leading-none"])
+    comment = a[0].text
+    upvote = a[1].text
     """
-    results = []
-
-    for item in soup.select('*[data-test-id="ad"]'):
-        data = {
-            "title": (item.select_one("a") or {}).get_text(strip=True) if item.select_one("a") else None,
-            "description": (item.select_one("p.text-16.font-normal.text-dark-gray.text-secondary") or {}).get_text(strip=True)
-        }
-        results.append(data)
-
-    return results
-    """
-
-
 
 if __name__ == "__main__" :
     url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
