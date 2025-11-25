@@ -4,8 +4,6 @@ Created on Sat Nov 22 23:51:23 2025
 
 @author: Lenovo
 """
-
-from urllib.parse import urlencode
 from script.piloterr import website_crawler
 from bs4 import BeautifulSoup
 
@@ -23,7 +21,6 @@ def find_with_classes(soup, classes):
 
 def scrape_launch_list(url):
     """ return list of product found in a roducthunt launch archive """
-    
     html = website_crawler(url)
     
     if not html:
@@ -36,8 +33,7 @@ def scrape_launch_list(url):
     
     for item in find_with_all_classes(soup,_class):
         a = find_with_all_classes(item, ["text-14","font-semibold","leading-none"])
-        
-        #print(item.find("a").text)
+
         data = {
             "title" : item.find("a").text,
             "product_url" : "https://www.producthunt.com"+item.find("a").get('href'),
@@ -48,21 +44,8 @@ def scrape_launch_list(url):
             "upvote" : a[1].text if len(a) > 1 else None
             }
         result.append(data)
+        
     return result
-    
-    
-    """
-    # line by line test
-    item = items[0]
-    title = item.find("a").text
-    product_url = "https://www.producthunt.com/"+item.find("a").get('href')
-    description = find_with_classes(item, ["text-16", "font-normal", "text-dark-gray", "text-secondary"]).text
-    tags = [i.text for i in find_with_all_classes(item, ["text-14","font-normal","text-dark-gray"])]
-    
-    a = find_with_all_classes(item, ["text-14","font-semibold","leading-none"])
-    comment = a[0].text
-    upvote = a[1].text
-    """
 
 if __name__ == "__main__" :
     #url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
