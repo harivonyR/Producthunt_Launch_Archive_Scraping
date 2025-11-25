@@ -12,3 +12,4 @@ for (y, m, d) in pbar:
     pbar.set_description(f"Scraping {d:02d}/{m:02d}/{y}")
     url = URL_TEMPLATE.format(year=y, month=f"{m}", day=f"{d}")
     results.extend(scrape_launch_list(url))
+
