@@ -8,6 +8,11 @@
 * **Custom dashboards** : build your own product-insight or trend-tracking dashboards.
 
 ## Getting Started
+### Clone the project
+```
+$ git clone https://github.com/harivonyR/Producthunt_Launch_Archive_Scraping
+```
+
 ### setup dependencies
 ```
 $ pip install requests beautifulsoup4 pandas tqdm
