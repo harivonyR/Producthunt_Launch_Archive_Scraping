@@ -14,6 +14,11 @@ Generate date ranges, build dynamic URL templates, fetch clean HTML with the Pil
 $ git clone https://github.com/harivonyR/Producthunt_Launch_Archive_Scraping
 ```
 
+### Open the folder
+```
+$ cd Producthunt_Launch_Archive_Scraping
+```
+
 ### setup dependencies
 ```
 $ pip install requests beautifulsoup4 pandas tqdm
@@ -21,10 +26,10 @@ $ pip install requests beautifulsoup4 pandas tqdm
 
 ### Copy paste the credential
 ```
-$ cp credential.example.py credential.py
+$ copy credential.example.py credential.py
 ```
 
-### Open `credential.py` and Set API key
+### Open `credential.py` and Paste the API key
 ```
 x_api_key = "Paste Your API Key Here"
 ```
@@ -32,7 +37,7 @@ x_api_key = "Paste Your API Key Here"
 
 
 ## RUN the code
-### Set year range to scrape in `main.py`
+### Open  `main.py` and set year range to scrape
 ```
 dates = build_dates(start_year=2013, end_year=2013)
 ```
