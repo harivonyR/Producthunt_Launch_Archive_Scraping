@@ -1,5 +1,6 @@
 # Producthunt_Launch_Archive_Scraping
-[ about the project]
+A fast and beginner-friendly ProductHunt archive scraping pipeline powered by the Piloterr API.
+Generate date ranges, build dynamic URL templates, fetch clean HTML with the Piloterr Website Crawler, and extract structured product data for market intelligence, trend analysis, or dataset building.
 
 ## Use Case
 * **Market intelligence** :  market gap analysis, leaderboards.
