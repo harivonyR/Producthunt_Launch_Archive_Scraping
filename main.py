@@ -3,7 +3,9 @@ from utils.dates import build_dates
 import pandas as pd
 from tqdm import tqdm
 
-dates = build_dates(start_year=2013, end_year=2013)[:10]
+""" Set Year Archive To Scrape """
+dates = build_dates(start_year=2013, end_year=2013)
+
 URL_TEMPLATE = "https://www.producthunt.com/leaderboard/daily/{year}/{month}/{day}"
 results = []
 urls=[]
