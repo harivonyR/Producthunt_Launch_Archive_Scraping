@@ -19,7 +19,7 @@ $ git clone https://github.com/harivonyR/Producthunt_Launch_Archive_Scraping
 $ cd Producthunt_Launch_Archive_Scraping
 ```
 
-### setup dependencies
+### Setup dependencies
 ```
 $ pip install requests beautifulsoup4 pandas tqdm
 ```
