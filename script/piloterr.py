@@ -67,7 +67,27 @@ def website_rendering(site_url, wait_in_seconds=5, scroll=0):
         
     return clean_html
 
+def crunchbase_info(domain=None, query=None):
+    url = "https://piloterr.com/api/v2/crunchbase/company/info"
+    headers = {"x-api-key": x_api_key}
+
+    querystring = {}
+
+    if domain:
+        querystring["domain"] = domain
+
+    if query:
+        querystring["query"] = query
+
+    response = requests.get(url, headers=headers, params=querystring)
+    return response.json()
+
 
 if __name__ == "__main__":
-    product_hunt_url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
-    html = website_crawler(product_hunt_url)
+    # website crawler
+    #product_hunt_url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
+    #html = website_crawler(product_hunt_url)
+    
+    # crunchbase_info
+    domain = "piloterr.com"
+    company_info = crunchbase_info(domain=domain)
