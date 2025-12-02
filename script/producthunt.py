@@ -6,18 +6,8 @@ Created on Sat Nov 22 23:51:23 2025
 """
 from script.piloterr import website_crawler
 from bs4 import BeautifulSoup
+from utils.selector import find_with_all_classes, find_with_classes, get_one, get_attr, get_list
 
-def find_with_all_classes(soup, classes):
-    """ return all elements that contain all classes """
-    return soup.find_all(
-        lambda tag: tag.has_attr("class") and all(c in tag["class"] for c in classes)
-    )
-
-def find_with_classes(soup, classes):
-    """ return first elements that contain all classes """
-    return soup.find(
-        lambda tag: tag.has_attr("class") and all(c in tag["class"] for c in classes)
-    )
 
 def scrape_launch_list(url):
     """ return list of product found in a roducthunt launch archive """
@@ -47,9 +37,48 @@ def scrape_launch_list(url):
         
     return result
 
+def scrape_product_info(product_url):
+    html = website_crawler(product_url)
+    soup = BeautifulSoup(html, "html.parser")
+    
+    data = {
+        "product_name":       get_one(lambda: find_with_classes(soup, ["text-24","font-semibold","text-gray-900"])),
+        "short_description":  get_one(lambda: find_with_classes(soup, ["text-18","text-gray-700"])),
+        "company_url":        get_attr(lambda: find_with_classes(soup, ["transition-all","whitespace-nowrap"]), "href"),
+        "tag":                get_list(lambda: find_with_all_classes(soup, ["text-14","text-tertiary","group-hover:brightness-25"]))
+    }
+
+    return data
+"""
+def scrape_product_info(product_url): 
+    
+    html = website_crawler(product_url) 
+    soup = BeautifulSoup(html, "html.parser")
+    
+    product_class = ["text-24" ,"font-semibold" ,"text-gray-900"] 
+    product_name = find_with_classes(soup,product_class).text 
+    
+    desc_class = ["text-18", "text-gray-700"]
+    short_description = find_with_classes(soup,desc_class).text 
+    
+    company_url_class = ["transition-all","whitespace-nowrap"] 
+    company_url = find_with_classes(soup,company_url_class).get("href") 
+    
+    tag_class = ["text-14", "text-tertiary", "group-hover:brightness-25"] 
+    tag = [e.text for e in find_with_all_classes(soup, tag_class)] 
+    
+    data = { "product_name" : product_name, 
+            "short_description" : short_description, 
+            "company_url" : company_url, 
+            "tag" : tag } 
+    
+    return data
+"""
 if __name__ == "__main__" :
-    #url = "https://www.producthunt.com/leaderboard/daily/2025/11/22"
     #url = "https://www.producthunt.com/leaderboard/yearly/2025"
     #url = "https://www.producthunt.com/leaderboard/daily/2025/1/1"
-    url = "https://www.producthunt.com/leaderboard/daily/2025/1/8"
-    products_hunt = scrape_launch_list(url)
+    #archive_url = "https://www.producthunt.com/leaderboard/daily/2025/1/8"
+    #products_hunt = scrape_launch_list(archive_url)
+    product_url = "https://www.producthunt.com/products/taskade"
+    product_info = scrape_product_info(product_url)
+    
