@@ -17,7 +17,7 @@ def scrape_launch_list(url):
         return []
 
     soup = BeautifulSoup(html, "html.parser")
-    _class = ["isolate", "flex-row", "items-start"] # ckass list of items caracteristics
+    _class = ["isolate", "flex-row", "items-start"] # class list of items caracteristics
     
     result = []
     
@@ -33,7 +33,9 @@ def scrape_launch_list(url):
             "comment" : a[0].text if len(a) > 0 else None,
             "upvote" : a[1].text if len(a) > 1 else None
             }
-        result.append(data)
+        
+        if data["product_url"] != "https://www.producthunt.com/sponsor":
+            result.append(data)
         
     return result
 
@@ -49,6 +51,7 @@ def scrape_product_info(product_url):
     }
 
     return data
+
 """
 def scrape_product_info(product_url): 
     
@@ -76,9 +79,12 @@ def scrape_product_info(product_url):
 """
 if __name__ == "__main__" :
     #url = "https://www.producthunt.com/leaderboard/yearly/2025"
-    #url = "https://www.producthunt.com/leaderboard/daily/2025/1/1"
+    url = "https://www.producthunt.com/leaderboard/daily/2013/12/3"
+    product_info = scrape_launch_list(url)
+    
     #archive_url = "https://www.producthunt.com/leaderboard/daily/2025/1/8"
     #products_hunt = scrape_launch_list(archive_url)
-    product_url = "https://www.producthunt.com/products/taskade"
-    product_info = scrape_product_info(product_url)
+    
+    #product_url = "https://www.producthunt.com/products/coffeeme"
+    #product_info = scrape_product_info(product_url)
     

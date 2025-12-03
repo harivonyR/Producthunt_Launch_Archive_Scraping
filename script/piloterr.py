@@ -19,7 +19,6 @@ def website_crawler(site_url):
     
     # decode double escape "\\" and inline "\n" 
     clean_html = response.text.encode('utf-8').decode('unicode_escape')
-    
     # decode special character 
     clean_html = clean_html.encode('latin-1').decode('utf-8')
    
@@ -61,8 +60,6 @@ def website_rendering(site_url, wait_in_seconds=5, scroll=0):
         response = requests.post(url, headers=headers, json=instruction)
         
     clean_html = response.text.encode('utf-8').decode('unicode_escape')
-    
-    # decode special character 
     clean_html = clean_html.encode('latin-1').decode('utf-8')
         
     return clean_html
