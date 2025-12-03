@@ -1,5 +1,6 @@
 from script.producthunt import scrape_launch_list, scrape_product_info
 from utils.dates import build_dates
+from utils.url import get_domain_strict
 import pandas as pd
 from tqdm import tqdm
 
@@ -31,3 +32,7 @@ for _, row in tqdm(df.iterrows(), total=df.shape[0]):
 
 df_enriched = pd.DataFrame(product_rows)
 df_enriched.to_csv("output/producthunt_archive_product_info_sample.csv", sep=",", index=False)
+
+""" 4. Adding Produt Domain Name """
+df_enriched.domain = df_enriched["company_url"].apply(get_domain_strict)
+df_enriched.to_csv("output/producthunt_archive_info_domain.csv")
