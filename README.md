@@ -62,7 +62,6 @@ Output Sample :
     'upvote': '146'
   }
 ```
-## Teasing
-Stay tuned, an upcoming project we will learn how to scrape company live info with Producthunt, Crunchbase and LinkedIn.
-
-  
+## What's next
+Scrape more info from ProductHunt, CrunchBase and LinkedIn about product we scraped
+> [GitHub - Company Producthunt, CrunchBase and LinkedIn info scraping](https://github.com/harivonyR/Scrape_Company_Info_ProductHunt_CrunchBase_LinkedIn)  

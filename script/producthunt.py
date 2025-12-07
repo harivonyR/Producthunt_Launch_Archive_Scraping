@@ -33,7 +33,7 @@ def scrape_launch_list(url):
             "comment" : a[0].text if len(a) > 0 else None,
             "upvote" : a[1].text if len(a) > 1 else None
             }
-        
+        # exclude ads
         if data["product_url"] != "https://www.producthunt.com/sponsor":
             result.append(data)
         

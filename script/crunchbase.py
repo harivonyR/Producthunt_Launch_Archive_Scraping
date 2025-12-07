@@ -6,7 +6,6 @@ Created on Mon Dec  1 21:06:02 2025
 import pandas as pd
 from script.piloterr import crunchbase_info
 from tqdm import tqdm
-import json
 
 
 if __name__ == "__main__":
@@ -14,7 +13,10 @@ if __name__ == "__main__":
     
     results = []
     
-    pbar = tqdm(product_info.head(5).iterrows(),total=5)
+    pbar = tqdm(product_info.head(10).iterrows(),total=product_info[0])
+    # full iterration
+    #pbar = tqdm(product_info.iterrows(),total=product_info[0])
+    
     for _, row in pbar:
         domain = row["domain"]
 

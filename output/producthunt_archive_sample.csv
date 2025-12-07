@@ -1,368 +1,344 @@
-,title,product_url,source_url,description,tags,comment,upvote
-0,Product Hunt,https://www.producthunt.com/products/producthunt,https://www.producthunt.com/leaderboard/daily/2013/11/27,Discover your next favorite thing 😻,"['iOS', 'Web App', 'Tech']",41,197
-1,Blinkist,https://www.producthunt.com/products/blinkist,https://www.producthunt.com/leaderboard/daily/2013/11/27,"Key insights from 2,000+ bestselling nonfiction books","['Android', 'iOS', 'Web App']",19,192
-2,CoffeeMe,https://www.producthunt.com/products/coffeeme,https://www.producthunt.com/leaderboard/daily/2013/11/27,Tinder for Professional Networking,['Tech'],8,97
-3,coub,https://www.producthunt.com/products/coub,https://www.producthunt.com/leaderboard/daily/2013/11/27,Lets you pair audio w/ short video for hilarious meme-effect,"['iOS', 'iPad', 'Web App']",3,78
-4,Storyboard,https://www.producthunt.com/products/storyboard,https://www.producthunt.com/leaderboard/daily/2013/11/27,Press kit platform,['Tech'],4,65
-5,Mindie,https://www.producthunt.com/products/mindie,https://www.producthunt.com/leaderboard/daily/2013/11/27,Create 7-Second Music Videos,['Tech'],8,105
-6,Refresh,https://www.producthunt.com/products/refresh,https://www.producthunt.com/leaderboard/daily/2013/11/27,Discover common ground for better conversations,['Tech'],7,98
-7,Bonsai,https://www.producthunt.com/products/bonsai-2,https://www.producthunt.com/leaderboard/daily/2013/11/27,SMS-based daily reflection tool,['Tech'],4,71
-8,Readmill,https://www.producthunt.com/products/readmill,https://www.producthunt.com/leaderboard/daily/2013/11/27,"A beautiful e-book reader for iPhone, iPad and Android",['Tech'],1,69
-9,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/11/27,AWS Builder Center,['Promoted'],,
-10,Console.fm,https://www.producthunt.com/products/console-fm,https://www.producthunt.com/leaderboard/daily/2013/11/27,Top 100 charts for electronic dance music,['Tech'],2,75
-11,Exposure,https://www.producthunt.com/products/exposure,https://www.producthunt.com/leaderboard/daily/2013/11/27,Create Beautiful Photo Narratives,"['Web App', 'Tech']",2,70
-12,Bookd,https://www.producthunt.com/products/bookd,https://www.producthunt.com/leaderboard/daily/2013/11/27,Your booking storefront. Just rebuilt.,['Tech'],2,69
-13,Readtime ,https://www.producthunt.com/products/readtime,https://www.producthunt.com/leaderboard/daily/2013/11/27,Helps me get through my pocket,['Tech'],2,68
-14,Hatch,https://www.producthunt.com/products/hatch-2,https://www.producthunt.com/leaderboard/daily/2013/11/27,The app that loves you back,['Tech'],2,78
-15,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/11/27,Turn ideas into automations in minutes. Just by chatting. No coding.,['Promoted'],,
-16,React Messenger,https://www.producthunt.com/products/react-messenger,https://www.producthunt.com/leaderboard/daily/2013/11/27,Selfie Messenging,"['Messaging', 'Tech']",5,72
-17,UXPin,https://www.producthunt.com/products/uxpin,https://www.producthunt.com/leaderboard/daily/2013/11/28,Free design and prototyping tool for teams and professionals,"['Design Tools', 'Prototyping']",9,120
-18,Telescope,https://www.producthunt.com/products/telescope-2,https://www.producthunt.com/leaderboard/daily/2013/11/28,Open-source HN clone built with Meteor,['Tech'],5,106
-19,Cluster,https://www.producthunt.com/products/cluster-2,https://www.producthunt.com/leaderboard/daily/2013/11/28,Share and create photo albums with friends and family,"['Android', 'iOS', 'Web App']",8,85
-20,Thoughtback,https://www.producthunt.com/products/thoughtback,https://www.producthunt.com/leaderboard/daily/2013/11/28,"Program your mind, one thought at a time",['Tech'],9,19
-21,OhLife,https://www.producthunt.com/products/ohlife,https://www.producthunt.com/leaderboard/daily/2013/11/28,Write in private about your life,['Tech'],8,82
-22,Monocle,https://www.producthunt.com/products/monocle,https://www.producthunt.com/leaderboard/daily/2013/11/28,HN-like Community for Tech and Startups (now open source),['Tech'],2,13
-23,Lonenote,https://www.producthunt.com/products/lonenote,https://www.producthunt.com/leaderboard/daily/2013/11/28,"PostSecret, reinvented as an iPhone app",['Tech'],1,56
-24,Captio,https://www.producthunt.com/products/captio,https://www.producthunt.com/leaderboard/daily/2013/11/29,Email yourself with one tap,"['iOS', 'Tech']",13,93
-25,QuickCast,https://www.producthunt.com/products/quickcast,https://www.producthunt.com/leaderboard/daily/2013/11/29,3 Minute Screencasts,['Tech'],5,74
-26,Just Porter,https://www.producthunt.com/products/just-porter,https://www.producthunt.com/leaderboard/daily/2013/11/29,Tom's shoes for Backpacks,['Tech'],1,7
-27,Honey,https://www.producthunt.com/products/honey,https://www.producthunt.com/leaderboard/daily/2013/11/30,Honey automatically applies the best coupon code at checkout,"['Web App', 'Chrome Extensions', 'Tech']",33,236
-28,Mogl,https://www.producthunt.com/products/mogl,https://www.producthunt.com/leaderboard/daily/2013/11/30,Fight hunger with hunger,['Tech'],5,75
-29,Marvel,https://www.producthunt.com/products/marvel,https://www.producthunt.com/leaderboard/daily/2013/11/30,Create interactive prototypes from files in Dropbox,"['Web App', 'Tech']",10,99
-30,Sugarbox,https://www.producthunt.com/products/sugarbox,https://www.producthunt.com/leaderboard/daily/2013/11/30,Button for Real-Time Website Collaboration,['Tech'],4,65
-31,Kiind,https://www.producthunt.com/products/kiind,https://www.producthunt.com/leaderboard/daily/2013/11/30,Pay-later digital gift platform,['Tech'],5,9
-32,Agent,https://www.producthunt.com/products/agent,https://www.producthunt.com/leaderboard/daily/2013/11/30,Automate daily tasks on your Android device,['Tech'],4,8
-33,Ostrich Pillow,https://www.producthunt.com/products/ostrich-pillow,https://www.producthunt.com/leaderboard/daily/2013/12/1,Take a comfortable nap anywhere,['Tech'],3,83
-34,ForkFox,https://www.producthunt.com/products/forkfox,https://www.producthunt.com/leaderboard/daily/2013/12/1,Culinary tours of SF,['Tech'],0,52
-35,SnapBird,https://www.producthunt.com/products/snapbird,https://www.producthunt.com/leaderboard/daily/2013/12/1,Search beyond Twitter’s history,"['Productivity', 'Tech']",5,60
-36,Trello,https://www.producthunt.com/products/trello,https://www.producthunt.com/leaderboard/daily/2013/12/2,"Powering millions of teams to work smarter, together","['Android', 'iOS', 'iPad']",129,644
-37,Momentum,https://www.producthunt.com/products/momentum-3,https://www.producthunt.com/leaderboard/daily/2013/12/2,Replace your new tab page with focus goals,"['Safari Extensions', 'Browser Extensions', 'Chrome Extensions']",30,198
-38,Coffitivity,https://www.producthunt.com/products/coffitivity,https://www.producthunt.com/leaderboard/daily/2013/12/2,Drown out workplace chatter with the sounds of a coffeeshop,"['Web App', 'Tech']",13,107
-39,Draft,https://www.producthunt.com/products/draft,https://www.producthunt.com/leaderboard/daily/2013/12/2,GitHub for writing,"['Productivity', 'Writing', 'Text Editors']",14,116
-40,Karma,https://www.producthunt.com/products/karma-2,https://www.producthunt.com/leaderboard/daily/2013/12/2,social wifi,['Tech'],5,83
-41,Delighted,https://www.producthunt.com/products/delighted,https://www.producthunt.com/leaderboard/daily/2013/12/2,Easy and beautiful NPS tracking,['Tech'],10,78
-42,BRCK,https://www.producthunt.com/products/brck,https://www.producthunt.com/leaderboard/daily/2013/12/2,The rugged wi-fi hotspot (that works in Africa),['Tech'],3,69
-43,Tame.it,https://www.producthunt.com/products/tame-it,https://www.producthunt.com/leaderboard/daily/2013/12/2,"Trending links, hashtags, and people for those you follow",['Tech'],2,59
-44,OKDOTHIS,https://www.producthunt.com/products/okdothis,https://www.producthunt.com/leaderboard/daily/2013/12/2,Idea sharing for photographers,['Tech'],3,82
-45,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/2,AWS Builder Center,['Promoted'],,
-46,Preceden,https://www.producthunt.com/products/preceden,https://www.producthunt.com/leaderboard/daily/2013/12/2,Make an amazing timeline in minutes,['Tech'],1,61
-47,Slack,https://www.producthunt.com/products/slack,https://www.producthunt.com/leaderboard/daily/2013/12/3,"Be less busy. Real-time messaging, archiving & search.","['Android', 'iOS', 'Mac']",288,"1,657"
-48,Toggl,https://www.producthunt.com/products/toggl,https://www.producthunt.com/leaderboard/daily/2013/12/3,insanely simple free time tracking,"['Android', 'iOS', 'Linux']",19,125
-49,Calm,https://www.producthunt.com/products/calm,https://www.producthunt.com/leaderboard/daily/2013/12/3,Take a break and meditate.,"['Android', 'iOS', 'Web App']",20,144
-50,Luna,https://www.producthunt.com/products/luna,https://www.producthunt.com/leaderboard/daily/2013/12/3,Delivers your packages when you're home for the night.,"['iOS', 'Tech']",12,97
-51,Unroll.me,https://www.producthunt.com/products/unroll-me,https://www.producthunt.com/leaderboard/daily/2013/12/3,Clean up your inbox,['Tech'],11,101
-52,Sprig,https://www.producthunt.com/products/sprig-2,https://www.producthunt.com/leaderboard/daily/2013/12/3,Hand-crafted dinners on demand,"['Health & Fitness', 'On-Demand', 'Tech']",9,173
-53,Dash,https://www.producthunt.com/products/dash-3,https://www.producthunt.com/leaderboard/daily/2013/12/3,Learn to make awesome websites,"['Web App', 'Education', 'Languages']",8,110
-54,Context,https://www.producthunt.com/products/context,https://www.producthunt.com/leaderboard/daily/2013/12/3,fast visual texting,['Tech'],8,67
-55,Fetchntoes,https://www.producthunt.com/products/fetchntoes,https://www.producthunt.com/leaderboard/daily/2013/12/3,Organize and share your notes how you want.,['Tech'],5,64
-56,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/3,AWS Builder Center,['Promoted'],,
-57,Superhuman.io,https://www.producthunt.com/products/superhuman-io,https://www.producthunt.com/leaderboard/daily/2013/12/3,"Do everything, be everywhere",['Tech'],9,77
-58,Dizzybees,https://www.producthunt.com/products/dizzybees,https://www.producthunt.com/leaderboard/daily/2013/12/3,Addictive ios game like candycrush. Smart monetization.,['Tech'],3,57
-59,Athos,https://www.producthunt.com/products/athos,https://www.producthunt.com/leaderboard/daily/2013/12/4,Wearable workout clothes that track your workouts,['Tech'],7,106
-60,Songdrop,https://www.producthunt.com/products/songdrop,https://www.producthunt.com/leaderboard/daily/2013/12/4,Pinterest for music,['Tech'],0,63
-61,Matter.io Remix,https://www.producthunt.com/products/matter-io-remix,https://www.producthunt.com/leaderboard/daily/2013/12/4,"Make simple, fun changes to 3D model designs",['Tech'],6,60
-62,Pivvot,https://www.producthunt.com/products/pivvot,https://www.producthunt.com/leaderboard/daily/2013/12/4,A fun test of spatial awareness and reflexes (great game),['Tech'],5,56
-63,Michron,https://www.producthunt.com/products/michron,https://www.producthunt.com/leaderboard/daily/2013/12/4,Timelapse Photography for Everyone,['Tech'],0,55
-64,CanOpener,https://www.producthunt.com/products/canopener,https://www.producthunt.com/leaderboard/daily/2013/12/4,Fine tune your headphones,"['iOS', 'Music', 'Tech']",2,67
-65,StartupList,https://www.producthunt.com/products/startuplist,https://www.producthunt.com/leaderboard/daily/2013/12/4,"Discover startups, gain early traction",['Tech'],6,88
-66,WiseCash,https://www.producthunt.com/products/wisecash,https://www.producthunt.com/leaderboard/daily/2013/12/4,Master your cash-flow,['Tech'],2,58
-67,StoryWorth,https://www.producthunt.com/products/storyworth,https://www.producthunt.com/leaderboard/daily/2013/12/4,Easily record family stories,['Tech'],9,77
-68,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/4,AWS Builder Center,['Promoted'],,
-69,Boya,https://www.producthunt.com/products/boya,https://www.producthunt.com/leaderboard/daily/2013/12/4,One Sentence Snapblogging,['Tech'],3,71
-70,Beats Music,https://www.producthunt.com/products/beats-music,https://www.producthunt.com/leaderboard/daily/2013/12/4,Music Streaming Service Backed by Dr. Dre,['Tech'],5,60
-71,Colored Coins,https://www.producthunt.com/products/colored-coins,https://www.producthunt.com/leaderboard/daily/2013/12/4,Bitcoin Minting Protocol,['Tech'],0,58
-72,Bench,https://www.producthunt.com/products/bench-accounting,https://www.producthunt.com/leaderboard/daily/2013/12/4,A new kind of accountant,['Tech'],3,118
-73,Noisli,https://www.producthunt.com/products/noisli,https://www.producthunt.com/leaderboard/daily/2013/12/5,Noise generator ideal for working and relaxing.,"['iOS', 'iPad', 'Web App']",9,104
-74,Washio,https://www.producthunt.com/products/washio,https://www.producthunt.com/leaderboard/daily/2013/12/5,Uber for Laundry and Dry Cleaning,"['Android', 'iOS', 'iPad']",22,136
-75,Heyday,https://www.producthunt.com/products/hey-3,https://www.producthunt.com/leaderboard/daily/2013/12/5,Personal auto journal,['Tech'],21,140
-76,App.IO,https://www.producthunt.com/products/addapp-2-0,https://www.producthunt.com/leaderboard/daily/2013/12/5,Share your iPhone and iPad apps in any browser,['Tech'],3,68
-77,Hurlin' Mike,https://www.producthunt.com/products/hurlin-mike,https://www.producthunt.com/leaderboard/daily/2013/12/5,Take all of your whiteboard photos & transcribe them.,['Tech'],6,59
-78,Voicestorm,https://www.producthunt.com/products/voicestorm,https://www.producthunt.com/leaderboard/daily/2013/12/5,Gets your company to amplify news together,['Tech'],4,82
-79,Marco Polo,https://www.producthunt.com/products/marco-polo-2,https://www.producthunt.com/leaderboard/daily/2013/12/5,SnapChat for your location,['Tech'],1,56
-80,Offline Mag,https://www.producthunt.com/products/offline-mag,https://www.producthunt.com/leaderboard/daily/2013/12/5,Mobile Magazine with Full Audio,['Tech'],5,56
-81,Kwote,https://www.producthunt.com/products/kwote,https://www.producthunt.com/leaderboard/daily/2013/12/5,Beautiful quotes from the Iddiction team,['Tech'],3,55
-82,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/5,AWS Builder Center,['Promoted'],,
-83,Watchsend,https://www.producthunt.com/products/watchsend,https://www.producthunt.com/leaderboard/daily/2013/12/5,Video recordings of users' interactions for your iOS app,['Tech'],1,62
-84,Canva,https://www.producthunt.com/products/canva,https://www.producthunt.com/leaderboard/daily/2013/12/6,Amazingly simple graphic design,"['iOS', 'iPad', 'Web App']",77,300
-85,Lob,https://www.producthunt.com/products/lob,https://www.producthunt.com/leaderboard/daily/2013/12/6,Programmatically send physical mail and verify addresses,"['Web App', 'API', 'Marketing']",4,85
-86,Pressroom,https://www.producthunt.com/products/pressroom,https://www.producthunt.com/leaderboard/daily/2013/12/6,Create your press page in minutes,"['Public Relations', 'Tech']",9,85
-87,BottlesTonight,https://www.producthunt.com/products/bottlestonight,https://www.producthunt.com/leaderboard/daily/2013/12/6,HotelsTonight for Bottle Service,['Tech'],19,79
-88,Selfieclub,https://www.producthunt.com/products/selfieclub,https://www.producthunt.com/leaderboard/daily/2013/12/6,"Have fun taking Selfies, No adults allowed!",['Tech'],3,58
-89,Safe,https://www.producthunt.com/products/yc,https://www.producthunt.com/leaderboard/daily/2013/12/6,"Convertible debt, without the debt",['Tech'],10,84
-90,Locket,https://www.producthunt.com/products/locket,https://www.producthunt.com/leaderboard/daily/2013/12/6,Lock Screen Ads on Android — Get paid to unlock your phone,['Tech'],2,62
-91,Lighthouse,https://www.producthunt.com/products/lighthouse,https://www.producthunt.com/leaderboard/daily/2013/12/6,A hacker news for community builders.,['Tech'],4,68
-92,Upbeat,https://www.producthunt.com/products/upbeat,https://www.producthunt.com/leaderboard/daily/2013/12/6,The Reddit of music.,['Tech'],5,62
-93,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/6,AWS Builder Center,['Promoted'],,
-94,Totemapp,https://www.producthunt.com/products/totemapp,https://www.producthunt.com/leaderboard/daily/2013/12/6,Build a great press page right now,['Tech'],4,56
-95,Airchat,https://www.producthunt.com/products/airchat,https://www.producthunt.com/leaderboard/daily/2013/12/6,Location-based chatting with group controls,['Tech'],2,56
-96,Skulpt Aim,https://www.producthunt.com/products/skulpt-aim,https://www.producthunt.com/leaderboard/daily/2013/12/6,Innovative device for measuring body composition,['Tech'],1,67
-97,Fiverr,https://www.producthunt.com/products/fiverr,https://www.producthunt.com/leaderboard/daily/2013/12/7,"Graphics, marketing, fun, and more online services for $5","['Productivity', 'Tech']",6,113
-98,Coin,https://www.producthunt.com/products/coin,https://www.producthunt.com/leaderboard/daily/2013/12/7,The one card to replace every other card,['Tech'],13,129
-99,Lead Genius,https://www.producthunt.com/products/lead-genius,https://www.producthunt.com/leaderboard/daily/2013/12/7,Customer acquisition as a service,"['Marketing', 'Tech']",4,107
-100,Touchcast,https://www.producthunt.com/products/touchcast,https://www.producthunt.com/leaderboard/daily/2013/12/7,Experience the web inside a video,['Tech'],4,62
-101,Personal Capital,https://www.producthunt.com/products/personal-capital,https://www.producthunt.com/leaderboard/daily/2013/12/7,"All your accounts, All in one place.",['Tech'],3,113
-102,GifPop,https://www.producthunt.com/products/gifpop,https://www.producthunt.com/leaderboard/daily/2013/12/7,A tool to make custom cards from animated gifs,['Tech'],3,68
-103,Zeega,https://www.producthunt.com/products/zeega,https://www.producthunt.com/leaderboard/daily/2013/12/7,Easiest way to create and share interactive videos,['Tech'],2,60
-104,Wood Cut Maps,https://www.producthunt.com/products/wood-cut-maps,https://www.producthunt.com/leaderboard/daily/2013/12/7,"Handcrafted wood-inlay maps, designed by you.",['Tech'],4,84
-105,TalkTo,https://www.producthunt.com/products/talkto,https://www.producthunt.com/leaderboard/daily/2013/12/7,"Never Make Another Phone Call, Text Message Businesses",['Tech'],2,65
-106,Umano,https://www.producthunt.com/products/umano,https://www.producthunt.com/leaderboard/daily/2013/12/8,Interesting articles read to you by real people,['Tech'],26,116
-107,Skedadel,https://www.producthunt.com/products/skedadel,https://www.producthunt.com/leaderboard/daily/2013/12/8,Discover the perfect places to go through Instagram moments.,['Tech'],4,62
-108,Paprika.sh,https://www.producthunt.com/products/paprika-sh,https://www.producthunt.com/leaderboard/daily/2013/12/8,A platform to build & share your brand.,['Tech'],1,70
-109,TIME Planner,https://www.producthunt.com/products/time-planner,https://www.producthunt.com/leaderboard/daily/2013/12/8,Todo list meets calendar,['Tech'],12,74
-110,Musio,https://www.producthunt.com/products/musio,https://www.producthunt.com/leaderboard/daily/2013/12/8,A new take on the iOS music player,['Tech'],0,57
-111,Sketch,https://www.producthunt.com/products/sketch,https://www.producthunt.com/leaderboard/daily/2013/12/9,Vector only UI design,['Tech'],10,106
-112,theSkimm,https://www.producthunt.com/products/theskimm,https://www.producthunt.com/leaderboard/daily/2013/12/9,Daily summary of current events in your inbox,['Tech'],7,106
-113,Assembly,https://www.producthunt.com/products/assembly,https://www.producthunt.com/leaderboard/daily/2013/12/9,Quirky for Software,"['Web App', 'Tech']",14,109
-114,BloomThat,https://www.producthunt.com/products/bloomthat,https://www.producthunt.com/leaderboard/daily/2013/12/9,Ridiculously fast flowers,['Tech'],4,90
-115,Picatic,https://www.producthunt.com/products/picatic,https://www.producthunt.com/leaderboard/daily/2013/12/9,A powerful registration platform for event organizers.,"['Web App', 'Events', 'API']",5,134
-116,A+,https://www.producthunt.com/products/a,https://www.producthunt.com/leaderboard/daily/2013/12/9,Discover the Best Products,['Tech'],4,75
-117,Cage,https://www.producthunt.com/products/cage,https://www.producthunt.com/leaderboard/daily/2013/12/9,Collaboration just got a whole lot easier.,['Tech'],3,58
-118,Codecademy App,https://www.producthunt.com/products/codecademy-app,https://www.producthunt.com/leaderboard/daily/2013/12/9,Learn to code on  your iPhone,['Tech'],7,79
-119,Zesty,https://www.producthunt.com/products/zesty,https://www.producthunt.com/leaderboard/daily/2013/12/9,Healthy food takeout and delivery app,['Tech'],3,108
-120,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/9,AWS Builder Center,['Promoted'],,
-121,Figure1,https://www.producthunt.com/products/figure1,https://www.producthunt.com/leaderboard/daily/2013/12/9,"Free, safe photo sharing for healthcare professionals",['Tech'],0,80
-122,Blippy,https://www.producthunt.com/products/blippy,https://www.producthunt.com/leaderboard/daily/2013/12/9,Create visual messages,['Tech'],5,57
-123,Renderly,https://www.producthunt.com/products/renderly,https://www.producthunt.com/leaderboard/daily/2013/12/9,Photoshop plugin that auto-exports design changes,['Tech'],1,55
-124,Typeform,https://www.producthunt.com/products/typeform,https://www.producthunt.com/leaderboard/daily/2013/12/10,"Typeform makes asking questions easy, human & beautiful","['Web App', 'User Experience', 'Tech']",9,266
-125,Sqwiggle,https://www.producthunt.com/products/sqwiggle,https://www.producthunt.com/leaderboard/daily/2013/12/10,24/7 Video Chat for Remote Teams,['Tech'],16,192
-126,VSCO Cam,https://www.producthunt.com/products/vsco,https://www.producthunt.com/leaderboard/daily/2013/12/10,The standard in mobile photography,['Tech'],6,105
-127,Gibbon,https://www.producthunt.com/products/gibbon,https://www.producthunt.com/leaderboard/daily/2013/12/10,Playlists for learning,['Tech'],16,103
-128,Giphy,https://www.producthunt.com/products/giphy,https://www.producthunt.com/leaderboard/daily/2013/12/10,Search animated GIFs on the web,"['Web App', 'Tech']",10,114
-129,Doctor on Demand,https://www.producthunt.com/products/doctor-on-demand,https://www.producthunt.com/leaderboard/daily/2013/12/10,On demand video chat with licensed doctors,['Tech'],1,75
-130,Apiary,https://www.producthunt.com/products/apiary,https://www.producthunt.com/leaderboard/daily/2013/12/10,Blueprint for API Development,['Tech'],3,79
-131,Liberio,https://www.producthunt.com/products/liberio,https://www.producthunt.com/leaderboard/daily/2013/12/10,One click eBook publishing from Google Drive (pre-launch),['Tech'],4,86
-132,Friendlibs,https://www.producthunt.com/products/friendlibs,https://www.producthunt.com/leaderboard/daily/2013/12/10,Make your own ad lib listicles about your friends,['Tech'],3,55
-133,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/10,AWS Builder Center,['Promoted'],,
-134,Poll Everywhere,https://www.producthunt.com/products/poll-everywhere,https://www.producthunt.com/leaderboard/daily/2013/12/10,Live interactive audience participation,"['Events', 'Education', 'SaaS']",1,63
-135,Mixture,https://www.producthunt.com/products/mixture,https://www.producthunt.com/leaderboard/daily/2013/12/10,Frontend development tools made easy,['Tech'],2,72
-136,Blue Goji,https://www.producthunt.com/products/blue-goji,https://www.producthunt.com/leaderboard/daily/2013/12/10,Gamified Exercise Equipment,['Tech'],10,61
-137,Tinybop,https://www.producthunt.com/products/tinybop,https://www.producthunt.com/leaderboard/daily/2013/12/10,Toys for Tomorrow,['Tech'],1,59
-138,Put.io,https://www.producthunt.com/products/put-io,https://www.producthunt.com/leaderboard/daily/2013/12/11,Download all the things!,['Tech'],24,145
-139,Gumroad,https://www.producthunt.com/products/gumroad,https://www.producthunt.com/leaderboard/daily/2013/12/11,Sell anything directly to anyone.,['Tech'],7,160
-140,Openbeta,https://www.producthunt.com/products/openbeta,https://www.producthunt.com/leaderboard/daily/2013/12/11,help betaworks test products early,['Tech'],18,83
-141,Distiller,https://www.producthunt.com/products/distiller,https://www.producthunt.com/leaderboard/daily/2013/12/11,Your personal whiskey recommendation engine,"['Drinking', 'Tech']",6,77
-142,Leo,https://www.producthunt.com/products/leo,https://www.producthunt.com/leaderboard/daily/2013/12/11,Lightweight Snapchat,['Tech'],11,67
-143,Anomo,https://www.producthunt.com/products/anomo,https://www.producthunt.com/leaderboard/daily/2013/12/11,Anonymous Social Network,['Tech'],2,59
-144,Snake Next,https://www.producthunt.com/products/snake-next,https://www.producthunt.com/leaderboard/daily/2013/12/11,Nokia's Snake reinvented,['Tech'],1,65
-145,Chronos ,https://www.producthunt.com/products/chronos,https://www.producthunt.com/leaderboard/daily/2013/12/11,Find your time,['Tech'],3,57
-146,Full,https://www.producthunt.com/products/full,https://www.producthunt.com/leaderboard/daily/2013/12/11,"Track, measure and visualize what's important to you.",['Tech'],4,77
-147,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/11,AWS Builder Center,['Promoted'],,
-148,SunnyComb,https://www.producthunt.com/products/sunnycomb,https://www.producthunt.com/leaderboard/daily/2013/12/11, Sunnycomb is a social weather app ,['Tech'],6,57
-149,Intercom,https://www.producthunt.com/products/intercom,https://www.producthunt.com/leaderboard/daily/2013/12/12,Communicate personally with every single customer.,"['Android', 'iOS', 'iPad']",43,291
-150,Shyp,https://www.producthunt.com/products/shyp,https://www.producthunt.com/leaderboard/daily/2013/12/12,The easiest way to ship your stuff,"['Delivery', 'Tech']",12,101
-151,Plug,https://www.producthunt.com/products/plug,https://www.producthunt.com/leaderboard/daily/2013/12/12,Lightweight OSX player for Hype Machine,"['Mac', 'Tech']",5,87
-152,Newsle,https://www.producthunt.com/products/newsle,https://www.producthunt.com/leaderboard/daily/2013/12/12,News about your network,['Tech'],5,91
-153,Coinbase,https://www.producthunt.com/products/coinbase,https://www.producthunt.com/leaderboard/daily/2013/12/12,"digital wallet to buy, use, and accept bitcoin",['Tech'],18,92
-154,Quarterly,https://www.producthunt.com/products/quarterly,https://www.producthunt.com/leaderboard/daily/2013/12/12,Curated packages from people you care about,['Tech'],1,65
-155,Jauntful,https://www.producthunt.com/products/jauntful,https://www.producthunt.com/leaderboard/daily/2013/12/12,"Create shareable, printable guides to cities",['Tech'],8,72
-156,Ins and outs,https://www.producthunt.com/products/ins-and-outs,https://www.producthunt.com/leaderboard/daily/2013/12/12,A simple activity tracker for your newborn,['Tech'],3,57
-157,Brace,https://www.producthunt.com/products/brace,https://www.producthunt.com/leaderboard/daily/2013/12/12,Host static sites on dropbox,['Tech'],0,65
-158,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/12,AWS Builder Center,['Promoted'],,
-159,Recite,https://www.producthunt.com/products/recite,https://www.producthunt.com/leaderboard/daily/2013/12/12,Turn a Quote into a Masterpiece,['Tech'],2,79
-160,Google Sheets,https://www.producthunt.com/products/dragondrop,https://www.producthunt.com/leaderboard/daily/2013/12/12,Excel in the cloud,['Tech'],4,84
-161,Highlight 2.0,https://www.producthunt.com/products/highlight-2-0,https://www.producthunt.com/leaderboard/daily/2013/12/12,Find friends and new people nearby,['Tech'],4,78
-162,ClientFlow,https://www.producthunt.com/products/clientflow,https://www.producthunt.com/leaderboard/daily/2013/12/12,Manage your client relationships,['Tech'],5,76
-163,Duo,https://www.producthunt.com/products/duo,https://www.producthunt.com/leaderboard/daily/2013/12/12,Dual-paned web browser for responsive web design.,['Tech'],1,72
-164,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/12,Turn ideas into automations in minutes. Just by chatting. No coding.,['Promoted'],,
-165,Brewster,https://www.producthunt.com/products/brewster,https://www.producthunt.com/leaderboard/daily/2013/12/12,Your social address book.,['Tech'],1,82
-166,Cozymeal,https://www.producthunt.com/products/cozymeal,https://www.producthunt.com/leaderboard/daily/2013/12/12,Eat or host great home cooked meals,['Tech'],5,58
-167,Connect,https://www.producthunt.com/products/myplace-connect,https://www.producthunt.com/leaderboard/daily/2013/12/12,"""Find Friends"" for all of your networks",['Tech'],1,57
-168,HandUp,https://www.producthunt.com/products/handup,https://www.producthunt.com/leaderboard/daily/2013/12/13,Direct giving to SF's homeless for the things they need.,['Tech'],3,83
-169,Tuft & Needle,https://www.producthunt.com/products/tuft-needle,https://www.producthunt.com/leaderboard/daily/2013/12/13,Sleep on an honestly crafted bed at a fair price,['Tech'],16,89
-170,Fitstar,https://www.producthunt.com/products/fitstar,https://www.producthunt.com/leaderboard/daily/2013/12/13,"Fitness app - previously on the iPad only, now on iPhones",['Tech'],3,68
-171,Inc,https://www.producthunt.com/products/inc,https://www.producthunt.com/leaderboard/daily/2013/12/13,"Share links, notes and files in one place.",['Tech'],5,71
-172,(naow),https://www.producthunt.com/products/naow,https://www.producthunt.com/leaderboard/daily/2013/12/13,"Ask anything, to anyone nearby",['Tech'],4,66
-173,Jackpocket,https://www.producthunt.com/products/jackpocket,https://www.producthunt.com/leaderboard/daily/2013/12/13,Mobile App for Playing Lotto,['Tech'],3,63
-174,Gabaway,https://www.producthunt.com/products/gabaway,https://www.producthunt.com/leaderboard/daily/2013/12/13,Animated avatar conversations,['Tech'],5,58
-175,MailParser,https://www.producthunt.com/products/mailparser,https://www.producthunt.com/leaderboard/daily/2013/12/14,Extract data from e-mails. Automate your business.,"['Web App', 'Tech']",2,76
-176,dataSTICKIES,https://www.producthunt.com/products/datastickies,https://www.producthunt.com/leaderboard/daily/2013/12/14,Graphene-based flash drives that may replace USB sticks,['Tech'],3,74
-177,Quibb,https://www.producthunt.com/products/quibb,https://www.producthunt.com/leaderboard/daily/2013/12/14,Professional network to share industry news and analysis,['Tech'],14,91
-178,Bubbli,https://www.producthunt.com/products/bubbli,https://www.producthunt.com/leaderboard/daily/2013/12/14,Dynamic Spherical Photos,['Tech'],5,61
-179,Robinhood,https://www.producthunt.com/products/robinhood,https://www.producthunt.com/leaderboard/daily/2013/12/14,$0 comission stock brokerage,['Tech'],11,175
-180,Clouddock,https://www.producthunt.com/products/clouddock,https://www.producthunt.com/leaderboard/daily/2013/12/14,Automatically store files to cloud service of your choice,['Tech'],1,59
-181,Dovetail,https://www.producthunt.com/products/dovetail-2,https://www.producthunt.com/leaderboard/daily/2013/12/14,Simple coworking space management software.,['Tech'],10,62
-182,Domainr,https://www.producthunt.com/products/domainr,https://www.producthunt.com/leaderboard/daily/2013/12/15,Worldwide domain search,"['Developer Tools', 'Tech']",7,130
-183,Draw.io,https://www.producthunt.com/products/draw-io,https://www.producthunt.com/leaderboard/daily/2013/12/15,Create and share diagrams easily,['Tech'],11,101
-184,Getfeedback,https://www.producthunt.com/products/getfeedback,https://www.producthunt.com/leaderboard/daily/2013/12/15,"Create enaging, Mobile ready surveys.",['Tech'],0,79
-185,Tiny Blog,https://www.producthunt.com/products/tiny-blog,https://www.producthunt.com/leaderboard/daily/2013/12/15,Ambient Video Blogging (prototype by Kevin Rose),['Tech'],13,80
-186,knwl.js,https://www.producthunt.com/products/knwl-js,https://www.producthunt.com/leaderboard/daily/2013/12/15,Pull important data from large text blocks,['Tech'],1,62
-187,Leap Transit,https://www.producthunt.com/products/leap-transit,https://www.producthunt.com/leaderboard/daily/2013/12/15,New (limited) shuttle service for San Francisco commuters,['Tech'],3,73
-188,Groove,https://www.producthunt.com/products/groove,https://www.producthunt.com/leaderboard/daily/2013/12/16,Simple online help desk,"['Web App', 'Tech']",3,93
-189,Just Delete Me,https://www.producthunt.com/products/just-delete-me,https://www.producthunt.com/leaderboard/daily/2013/12/16,A directory of direct links to delete your account.,['Tech'],1,115
-190,Help Me Write,https://www.producthunt.com/products/help-me-write,https://www.producthunt.com/leaderboard/daily/2013/12/16,Get your audience to help you decide what to write about.,"['Web App', 'Tech']",3,77
-191,Tydlig,https://www.producthunt.com/products/tydlig,https://www.producthunt.com/leaderboard/daily/2013/12/16,The calculator reimagined for iOS 7,['Tech'],3,69
-192,The Hunt,https://www.producthunt.com/products/the-hunt,https://www.producthunt.com/leaderboard/daily/2013/12/16,Helpers hunt down products you covet.,['Tech'],1,59
-193,Startup Framework,https://www.producthunt.com/products/designmodo,https://www.producthunt.com/leaderboard/daily/2013/12/16,Suit up your startup.,['Tech'],2,103
-194,Points,https://www.producthunt.com/products/points,https://www.producthunt.com/leaderboard/daily/2013/12/16,The most advance wayfinding system on earth,['Tech'],0,60
-195,ReadrBoard,https://www.producthunt.com/products/readrboard,https://www.producthunt.com/leaderboard/daily/2013/12/16,Capture reader reaction to content on your website or blog,['Tech'],3,75
-196,Moments.me,https://www.producthunt.com/products/moments-me,https://www.producthunt.com/leaderboard/daily/2013/12/16,iPad photo book app w/ same-day pickup at Walgreens,['Tech'],2,60
-197,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/16,AWS Builder Center,['Promoted'],,
-198,YayNay,https://www.producthunt.com/products/yaynay,https://www.producthunt.com/leaderboard/daily/2013/12/16,Easiest way to get second opinions from your friends,['Tech'],1,65
-199,Reaction Housing,https://www.producthunt.com/products/reaction-housing,https://www.producthunt.com/leaderboard/daily/2013/12/16,Rapid response emergency housing,['Tech'],1,60
-200,MIWIFI by Xiaomi,https://www.producthunt.com/products/miwifi-by-xiaomi,https://www.producthunt.com/leaderboard/daily/2013/12/16,Wifi router beta with a twist: you build it yourself,['Tech'],7,60
-201,Dare,https://www.producthunt.com/products/dare,https://www.producthunt.com/leaderboard/daily/2013/12/16,Mobile Video AMA ,['Tech'],8,58
-202,Helpouts By Google,https://www.producthunt.com/products/google,https://www.producthunt.com/leaderboard/daily/2013/12/16,Real help from real people in real time.,['Tech'],1,78
-203,Munchery,https://www.producthunt.com/products/munchery,https://www.producthunt.com/leaderboard/daily/2013/12/17,Wholesome meals in a snap,['Tech'],3,140
-204,Keezy,https://www.producthunt.com/products/keezy,https://www.producthunt.com/leaderboard/daily/2013/12/17,Turn your iPhone into an instrument,"['iOS', 'iPad', 'Tech']",15,89
-205,Velocity,https://www.producthunt.com/products/velocity,https://www.producthunt.com/leaderboard/daily/2013/12/17,"Read faster, one word at a time",['Tech'],12,86
-206,Potluck,https://www.producthunt.com/products/potluck-2,https://www.producthunt.com/leaderboard/daily/2013/12/17,Bite-sized  news and facts  to talk about,['Tech'],26,117
-207,Froont,https://www.producthunt.com/products/froont,https://www.producthunt.com/leaderboard/daily/2013/12/17,"Responsive web design, the visual way.",['Tech'],4,72
-208,Ding Dong,https://www.producthunt.com/products/ding-dong,https://www.producthunt.com/leaderboard/daily/2013/12/17,"""What's up"" in one tap",['Tech'],11,85
-209,Macaw,https://www.producthunt.com/products/macaw,https://www.producthunt.com/leaderboard/daily/2013/12/17,The code-savvy web design tool,['Tech'],3,73
-210,Krush,https://www.producthunt.com/products/krush,https://www.producthunt.com/leaderboard/daily/2013/12/17,Lifestyle driven marketplace,['Tech'],5,61
-211,Storefront,https://www.producthunt.com/products/storefront,https://www.producthunt.com/leaderboard/daily/2013/12/17,Find short-term retail space to sell in,"['Jewelry', 'Fashion', 'Art']",4,124
-212,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/17,AWS Builder Center,['Promoted'],,
-213,Iron Man Mark III,https://www.producthunt.com/products/iron-man-mark-iii,https://www.producthunt.com/leaderboard/daily/2013/12/17,"Now ready for pre-order, an actual Iron Man suit",['Tech'],2,62
-214,Question Block Lamp,https://www.producthunt.com/products/question-block-lamp,https://www.producthunt.com/leaderboard/daily/2013/12/17,Mario-Inspired Touch Sensitive Lamp,['Tech'],3,67
-215,Deck,https://www.producthunt.com/products/deck,https://www.producthunt.com/leaderboard/daily/2013/12/17,Presentations for the Post-PC era.,['Tech'],1,64
-216,Write Monkey,https://www.producthunt.com/products/write-monkey,https://www.producthunt.com/leaderboard/daily/2013/12/17,Offline writing software,['Tech'],4,60
-217,24 Hours of Happy,https://www.producthunt.com/products/24-hours-of-happy,https://www.producthunt.com/leaderboard/daily/2013/12/17,Pharrell's 24 Hour Music Video,['Tech'],6,69
-218,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/17,Turn ideas into automations in minutes. Just by chatting. No coding.,['Promoted'],,
-219,CloudMagic,https://www.producthunt.com/products/cloudmagic,https://www.producthunt.com/leaderboard/daily/2013/12/17,The mail app with magical search,['Tech'],1,71
-220,Cameo,https://www.producthunt.com/products/cameo-2,https://www.producthunt.com/leaderboard/daily/2013/12/17,"Video creation mobile app - create beautiful ""Cameos""",['Tech'],3,67
-221,Ubooly,https://www.producthunt.com/products/ubooly,https://www.producthunt.com/leaderboard/daily/2013/12/17,The learning toy that listens,['Tech'],1,62
-222,Duolingo,https://www.producthunt.com/products/duolingo,https://www.producthunt.com/leaderboard/daily/2013/12/18,Learn languages completely free.,"['iOS', 'Web App', 'Languages']",36,207
-223,Webflow,https://www.producthunt.com/products/webflow,https://www.producthunt.com/leaderboard/daily/2013/12/18,All-in-one web design platform,"['Web App', 'Design Tools', 'User Experience']",18,264
-224,Day One,https://www.producthunt.com/products/day-one-journal,https://www.producthunt.com/leaderboard/daily/2013/12/18,"A simple journal for iPhone, iPad and OSX. ","['iOS', 'iPad', 'Mac']",5,104
-225,Canary,https://www.producthunt.com/products/canary-2,https://www.producthunt.com/leaderboard/daily/2013/12/18,Smart home security for everyone,"['Android', 'iOS', 'Home']",6,181
-226,Pixelmator,https://www.producthunt.com/products/pixelmator,https://www.producthunt.com/leaderboard/daily/2013/12/18,"By far the best, lightest, and cheapest visual design tool. ","['iPad', 'Mac', 'Photography']",5,88
-227,Moves,https://www.producthunt.com/products/moves,https://www.producthunt.com/leaderboard/daily/2013/12/18,Activity tracking without gadgets,['Tech'],6,72
-228,Memrise,https://www.producthunt.com/products/memrise,https://www.producthunt.com/leaderboard/daily/2013/12/18,Learn Anything,['Tech'],7,68
-229,Capptivate,https://www.producthunt.com/products/capptivate,https://www.producthunt.com/leaderboard/daily/2013/12/18,Animated Mobile App Patterns,"['iOS', 'Tech']",5,133
-230,Writer Pro,https://www.producthunt.com/products/writer-pro,https://www.producthunt.com/leaderboard/daily/2013/12/18,Note. Write. Edit.,"['Android', 'iOS', 'Mac']",6,119
-231,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/18,AWS Builder Center,['Promoted'],,
-232,Envoy,https://www.producthunt.com/products/envoy,https://www.producthunt.com/leaderboard/daily/2013/12/18,Elegantly greet visitors to your office (pre-launch),['Tech'],9,88
-233,Uncover,https://www.producthunt.com/products/uncoverr,https://www.producthunt.com/leaderboard/daily/2013/12/18,Reward Your Employees,['Tech'],0,63
-234,Silvrback,https://www.producthunt.com/products/silvrback,https://www.producthunt.com/leaderboard/daily/2013/12/18,Distraction-free blogging. Own your brand. ,['Tech'],8,81
-235,Airmail,https://www.producthunt.com/products/airmail,https://www.producthunt.com/leaderboard/daily/2013/12/18,Lightning fast mail client for OS X,['Tech'],5,76
-236,LiveMinutes,https://www.producthunt.com/products/liveminutes,https://www.producthunt.com/leaderboard/daily/2013/12/18,Team chat and document collaboration,['Tech'],5,89
-237,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/18,Turn ideas into automations in minutes. Just by chatting. No coding.,['Promoted'],,
-238,Canary,https://www.producthunt.com/products/canary-3,https://www.producthunt.com/leaderboard/daily/2013/12/18,Uptime monitoring for everyone,['Tech'],2,66
-239,Circa,https://www.producthunt.com/products/circa,https://www.producthunt.com/leaderboard/daily/2013/12/18,News app with high quality curated content,['Tech'],3,77
-240,Wallaby Financial,https://www.producthunt.com/products/wallaby-financial,https://www.producthunt.com/leaderboard/daily/2013/12/18,Optimize your credit card usage with one smart card.,['Tech'],4,87
-241,One Month Rails,https://www.producthunt.com/products/one-month-rails,https://www.producthunt.com/leaderboard/daily/2013/12/19,The easiest way ever developed to Learn to Code,['Tech'],9,80
-242,UberConference,https://www.producthunt.com/products/uberconference-by-dialpad,https://www.producthunt.com/leaderboard/daily/2013/12/19,Stress-free conference calls,['Tech'],5,74
-243,Prismatic 2.0,https://www.producthunt.com/products/prismatic-2-0,https://www.producthunt.com/leaderboard/daily/2013/12/19,Social news app,"['iOS', 'Tech']",6,138
-244,Signals,https://www.producthunt.com/products/signals,https://www.producthunt.com/leaderboard/daily/2013/12/19,See who opens your email,['Tech'],5,89
-245,Vidme,https://www.producthunt.com/products/vidme,https://www.producthunt.com/leaderboard/daily/2013/12/19,Instant and anonymous video hosting,"['Android', 'iOS', 'Tech']",12,84
-246,Bevel,https://www.producthunt.com/products/bevel,https://www.producthunt.com/leaderboard/daily/2013/12/19,Shaving system designed to reduce shaving irritation,"['Health & Fitness', 'Tech']",5,91
-247,Layer Vault,https://www.producthunt.com/products/layer-vault,https://www.producthunt.com/leaderboard/daily/2013/12/19,Version control for designers,['Tech'],0,64
-248,Ambassador,https://www.producthunt.com/products/ambassador,https://www.producthunt.com/leaderboard/daily/2013/12/19,"Referral Automation, Made Easy",['Tech'],3,75
-249,New Readability,https://www.producthunt.com/products/new-readability,https://www.producthunt.com/leaderboard/daily/2013/12/19,"Read Comfortably— Anytime, Anywhere",['Tech'],6,67
-250,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/19,AWS Builder Center,['Promoted'],,
-251,PKPKT,https://www.producthunt.com/products/pkpkt,https://www.producthunt.com/leaderboard/daily/2013/12/19,Steal money from friends and strangers,['Tech'],3,62
-252,Strongsync,https://www.producthunt.com/products/strongsync,https://www.producthunt.com/leaderboard/daily/2013/12/19,Dropbox-like Sync and Backup using only SFTP or Amazon S3,['Tech'],0,61
-253,Are You a Human?,https://www.producthunt.com/products/are-you-a-human,https://www.producthunt.com/leaderboard/daily/2013/12/19,Ending the CAPTCHA agony in a unique way.,['Tech'],7,67
-254,Friendlibs,https://www.producthunt.com/products/friendlibs,https://www.producthunt.com/leaderboard/daily/2013/12/19,Make Buzzfeed-like list articles about your friends,['Tech'],3,61
-255,Listly,https://www.producthunt.com/products/listly,https://www.producthunt.com/leaderboard/daily/2013/12/19,Listly is lists made social and fun!,['Tech'],1,102
-256,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/19,Turn ideas into automations in minutes. Just by chatting. No coding.,['Promoted'],,
-257,ScreenSteps,https://www.producthunt.com/products/screensteps,https://www.producthunt.com/leaderboard/daily/2013/12/19,Write better help articles for your support knowledge base,['Tech'],3,95
-258,Taasky,https://www.producthunt.com/products/taasky,https://www.producthunt.com/leaderboard/daily/2013/12/19,Sexy to-do list app,['Tech'],3,71
-259,Fotokite,https://www.producthunt.com/products/fotokite,https://www.producthunt.com/leaderboard/daily/2013/12/19,"A flying camera that works anytime, anywhere",['Tech'],1,77
-260,Penflip,https://www.producthunt.com/products/penflip,https://www.producthunt.com/leaderboard/daily/2013/12/20,A social writing platform,['Tech'],15,135
-261,Origami,https://www.producthunt.com/products/origami,https://www.producthunt.com/leaderboard/daily/2013/12/20,A free design prototyping toolkit for Quartz Composer,['Tech'],2,93
-262,StatusPage,https://www.producthunt.com/products/statuspage,https://www.producthunt.com/leaderboard/daily/2013/12/20,Better Server Status Communication,['Tech'],0,89
-263,Snapchat 6.1,https://www.producthunt.com/products/snapchat-6-1,https://www.producthunt.com/leaderboard/daily/2013/12/20,"New Smart Filters, Replay, Front-Facing Flash & More.",['Tech'],24,95
-264,Rumpl,https://www.producthunt.com/products/rumpl,https://www.producthunt.com/leaderboard/daily/2013/12/20,World's best blanket,['Tech'],4,78
-265,Narrative,https://www.producthunt.com/products/narrative,https://www.producthunt.com/leaderboard/daily/2013/12/20,Ambient Photo Diary,['Tech'],4,64
-266,NewDo,https://www.producthunt.com/products/newdo,https://www.producthunt.com/leaderboard/daily/2013/12/20,Find Your Perfect Hairstyle,['Tech'],6,59
-267,Timeless Box,https://www.producthunt.com/products/timeless-box,https://www.producthunt.com/leaderboard/daily/2013/12/20,Time Travel for Gifts in a Box,['Tech'],2,62
-268,Aurora,https://www.producthunt.com/products/aurora,https://www.producthunt.com/leaderboard/daily/2013/12/20,The Dream-Enhancing Headband,['Tech'],3,56
-269,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/20,AWS Builder Center,['Promoted'],,
-270,Goodmouth,https://www.producthunt.com/products/goodmouth,https://www.producthunt.com/leaderboard/daily/2013/12/20,Oral Care. Delivered. :),['Tech'],10,68
-271,Workflowy,https://www.producthunt.com/products/workflowy,https://www.producthunt.com/leaderboard/daily/2013/12/21,Turn your entire life into a list.,"['Android', 'iOS', 'iPad']",23,139
-272,Plowz,https://www.producthunt.com/products/plowz,https://www.producthunt.com/leaderboard/daily/2013/12/21,On-demand snow plows,['Tech'],15,105
-273,Tessel 2,https://www.producthunt.com/products/tessel-2,https://www.producthunt.com/leaderboard/daily/2013/12/21,Hardware development for software developers.,['Tech'],2,73
-274,Napwell,https://www.producthunt.com/products/napwell,https://www.producthunt.com/leaderboard/daily/2013/12/21,Sleep mask that simulates a sunrise.,['Tech'],1,67
-275,Julibox,https://www.producthunt.com/products/julibox,https://www.producthunt.com/leaderboard/daily/2013/12/21,"Curated, artisan cocktails delivered to your door. ",['Tech'],0,57
-276,Lyve,https://www.producthunt.com/products/lyve,https://www.producthunt.com/leaderboard/daily/2013/12/21,Formerly stealth startup Black Pearl Systems reveals Lyve,['Tech'],1,56
-277,Haberdash,https://www.producthunt.com/products/haberdash,https://www.producthunt.com/leaderboard/daily/2013/12/21,Create stunning photo-cushions in a matter of moments,['Tech'],5,60
-278,Mention,https://www.producthunt.com/products/mention,https://www.producthunt.com/leaderboard/daily/2013/12/22,Better Google alerts.,['Tech'],16,202
-279,Doodle,https://www.producthunt.com/products/doodle,https://www.producthunt.com/leaderboard/daily/2013/12/22,Doodle simplifies scheduling.,['Tech'],12,229
-280,Shake,https://www.producthunt.com/products/shake,https://www.producthunt.com/leaderboard/daily/2013/12/22,Simple legal document creation,['Tech'],6,96
-281,Clerky,https://www.producthunt.com/products/clerky,https://www.producthunt.com/leaderboard/daily/2013/12/22,Startup Legal Setup Assistance,['Tech'],3,81
-282,Fragment,https://www.producthunt.com/products/fragment,https://www.producthunt.com/leaderboard/daily/2013/12/22,Prismatic Photos,['Tech'],6,115
-283,Intercourse,https://www.producthunt.com/products/intercourse,https://www.producthunt.com/leaderboard/daily/2013/12/22,Improve your pitch,['Tech'],2,63
-284,Christmas.am,https://www.producthunt.com/products/christmas-am,https://www.producthunt.com/leaderboard/daily/2013/12/22,The best gifts on Amazon.,['Tech'],2,89
-285,Nike+ Running 4.5,https://www.producthunt.com/products/nike-running-4-5,https://www.producthunt.com/leaderboard/daily/2013/12/22,New Nike+Coach = tips & routines for runners,['Tech'],6,80
-286,Unstuff,https://www.producthunt.com/products/unstuff,https://www.producthunt.com/leaderboard/daily/2013/12/22,Push Button. Save Christmas.,['Tech'],2,82
-287,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/22,AWS Builder Center,['Promoted'],,
-288,Cloudup,https://www.producthunt.com/products/cloudup,https://www.producthunt.com/leaderboard/daily/2013/12/22,"Share video, photos, music, links and files.","['Web App', 'Tech']",2,68
-289,iFunny 3.0,https://www.producthunt.com/products/ifunny-3-0,https://www.producthunt.com/leaderboard/daily/2013/12/22,Create and Share Memes,['Tech'],2,57
-290,Teespring,https://www.producthunt.com/products/teespring,https://www.producthunt.com/leaderboard/daily/2013/12/23,Create & sell t-shirts you can be proud of,['Tech'],6,104
-291,MyFitnessPal,https://www.producthunt.com/products/myfitnesspal,https://www.producthunt.com/leaderboard/daily/2013/12/23,"Free Calorie Counter , diet and excercise journal.","['Android', 'iOS', 'Health & Fitness']",4,68
-292,The Latest,https://www.producthunt.com/products/the-latest,https://www.producthunt.com/leaderboard/daily/2013/12/23,Automatic list of the latest & greatest links from Twitter,"['Web App', 'Social Network', 'Tech']",10,91
-293,Fluid UI,https://www.producthunt.com/products/fluid-ui,https://www.producthunt.com/leaderboard/daily/2013/12/23,The World's #1 Wireframing & Prototyping Tool,"['Prototyping', 'Tech']",3,65
-294,Structure,https://www.producthunt.com/products/structure,https://www.producthunt.com/leaderboard/daily/2013/12/23,3D Sensor for iOS,['Tech'],7,106
-295,Sketching with CSS,https://www.producthunt.com/products/sketching-with-css,https://www.producthunt.com/leaderboard/daily/2013/12/23,Write css as fast as you can Sketch,['Tech'],2,73
-296,Gif Yourself,https://www.producthunt.com/products/gif-yourself,https://www.producthunt.com/leaderboard/daily/2013/12/23,Add your face to a GIF,['Tech'],3,76
-297,Startup Boards,https://www.producthunt.com/products/startup-boards,https://www.producthunt.com/leaderboard/daily/2013/12/23,Book by Brad Feld: Getting the Most Out of Your Board,['Tech'],1,97
-298,Peek,https://www.producthunt.com/products/peek,https://www.producthunt.com/leaderboard/daily/2013/12/23,Last minute travel plans.,['Tech'],9,86
-299,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/23,AWS Builder Center,['Promoted'],,
-300,Fitstar,https://www.producthunt.com/products/fitstar,https://www.producthunt.com/leaderboard/daily/2013/12/23,Personalized video workouts for mobile,['Tech'],1,63
-301,Curious,https://www.producthunt.com/products/curious,https://www.producthunt.com/leaderboard/daily/2013/12/23,A better way to learn anything!,['Tech'],2,66
-302,RelateIQ,https://www.producthunt.com/products/relateiq,https://www.producthunt.com/leaderboard/daily/2013/12/24,Better Relationships. Smarter Decisions.,['Tech'],5,122
-303,ReadingPack,https://www.producthunt.com/products/readingpack,https://www.producthunt.com/leaderboard/daily/2013/12/24,Shared Reading List (like Pocket but social),['Tech'],13,82
-304,Tlk ,https://www.producthunt.com/products/tlk,https://www.producthunt.com/leaderboard/daily/2013/12/24,A simple web chat,['Tech'],3,95
-305,Sugarcube,https://www.producthunt.com/products/sugarcube,https://www.producthunt.com/leaderboard/daily/2013/12/24,Share media with your TV from any device.,['Tech'],1,66
-306,Wildcard,https://www.producthunt.com/products/wildcard,https://www.producthunt.com/leaderboard/daily/2013/12/24,Twitter/Potluck-esque cards for the rest of the web,['Tech'],5,87
-307,Creative Market,https://www.producthunt.com/products/creative-market,https://www.producthunt.com/leaderboard/daily/2013/12/24,The world's marketplace for design,"['Design Tools', 'Tech']",0,103
-308,OptimizeMe,https://www.producthunt.com/products/optimizeme,https://www.producthunt.com/leaderboard/daily/2013/12/24,Quantified Self App Interpreting Your Data,['Tech'],8,62
-309,Rushmore,https://www.producthunt.com/products/rushmore,https://www.producthunt.com/leaderboard/daily/2013/12/24,Bringing music fans and music artists closer together,['Tech'],1,63
-310,Griddr,https://www.producthunt.com/products/griddr,https://www.producthunt.com/leaderboard/daily/2013/12/24,Griddr's Dot Grid Book,['Tech'],0,60
-311,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/24,AWS Builder Center,['Promoted'],,
-312,Just Porter,https://www.producthunt.com/products/just-porter,https://www.producthunt.com/leaderboard/daily/2013/12/24,Reinventing the Backpack,['Tech'],0,56
-313,Momentage,https://www.producthunt.com/products/momentage,https://www.producthunt.com/leaderboard/daily/2013/12/24,A Community for creatives,['Tech'],0,54
-314,22tracks,https://www.producthunt.com/products/22tracks,https://www.producthunt.com/leaderboard/daily/2013/12/25,Music Playlists Curated by DJ's Across the World,['Tech'],3,105
-315,Quip,https://www.producthunt.com/products/quip,https://www.producthunt.com/leaderboard/daily/2013/12/25,Beautiful documents on any device.,['Tech'],4,92
-316,Fraggl,https://www.producthunt.com/products/fraggl,https://www.producthunt.com/leaderboard/daily/2013/12/25,surface unmissable content on Twitter,['Tech'],3,54
-317,Remotely,https://www.producthunt.com/products/remotely,https://www.producthunt.com/leaderboard/daily/2013/12/25,Hire talented people that enjoy working remotely,['Tech'],8,127
-318,Sugru Magnet Kit,https://www.producthunt.com/products/sugru-magnet-kit,https://www.producthunt.com/leaderboard/daily/2013/12/25,Attach anything to anything with sugru + magnets!,['Tech'],1,61
-319,CircleCI,https://www.producthunt.com/products/circleci,https://www.producthunt.com/leaderboard/daily/2013/12/26,"Ship better code, faster",['Tech'],0,84
-320,Just Landed,https://www.producthunt.com/products/just-landed,https://www.producthunt.com/leaderboard/daily/2013/12/26,Making Airport Pickup Easy,['Tech'],10,103
-321,Popcorn Messaging,https://www.producthunt.com/products/popcorn-messaging,https://www.producthunt.com/leaderboard/daily/2013/12/26,Privately chat with others within 1 mile of your location,"['iOS', 'Messaging', 'Tech']",3,72
-322,Exercism,https://www.producthunt.com/products/exercism,https://www.producthunt.com/leaderboard/daily/2013/12/27,Crowd-sourced code reviews on daily practice problems,['Tech'],7,91
-323,Partnered ,https://www.producthunt.com/products/partnered,https://www.producthunt.com/leaderboard/daily/2013/12/27,A platform for brands and startups to build partnerships,['Tech'],3,94
-324,WaterForward,https://www.producthunt.com/products/waterforward,https://www.producthunt.com/leaderboard/daily/2013/12/27,Charity done right (viral fundraising for charity:water),"['Web App', 'Charity & Giving', 'Tech']",9,69
-325,Perch,https://www.producthunt.com/products/perch,https://www.producthunt.com/leaderboard/daily/2013/12/27,Small business reputation and review monitoring,['Tech'],2,75
-326,Meta - AR Glasses,https://www.producthunt.com/products/meta-ar-glasses,https://www.producthunt.com/leaderboard/daily/2013/12/27,The first holographic interface.,['Tech'],3,73
-327,Board,https://www.producthunt.com/products/board,https://www.producthunt.com/leaderboard/daily/2013/12/27,"Inspiration is your secret sauce, keep it private.",['Tech'],4,62
-328,Numbrs,https://www.producthunt.com/products/numbrs,https://www.producthunt.com/leaderboard/daily/2013/12/28,One app. Every bank.,"['iOS', 'Tech']",6,102
-329,Editorially,https://www.producthunt.com/products/editorially,https://www.producthunt.com/leaderboard/daily/2013/12/28,Collaborative writing tool ,"['Text Editors', 'Tech']",4,95
-330,Itch.io,https://www.producthunt.com/products/itch-io,https://www.producthunt.com/leaderboard/daily/2013/12/28,Pay-What-You-Want Indie Game Store,['Tech'],8,66
-331,Give,https://www.producthunt.com/products/give,https://www.producthunt.com/leaderboard/daily/2013/12/28,"With each purchase, we'll donate 1 to a family who needs it",['Tech'],0,60
-332,Copilot,https://www.producthunt.com/products/copilot-2,https://www.producthunt.com/leaderboard/daily/2013/12/28,Restaurant performance benchmarking via email,['Tech'],3,57
-333,Wallmob,https://www.producthunt.com/products/wallmob,https://www.producthunt.com/leaderboard/daily/2013/12/28,Enterprise point of sale,['Tech'],1,54
-334,Snappi,https://www.producthunt.com/products/snappi,https://www.producthunt.com/leaderboard/daily/2013/12/28,Send snapshots and files to friends in seconds.,['Tech'],2,63
-335,Fifty United Plates,https://www.producthunt.com/products/fifty-united-plates,https://www.producthunt.com/leaderboard/daily/2013/12/28,Plates shaped like your state!,['Tech'],2,79
-336,Kung Fury,https://www.producthunt.com/products/kung-fury,https://www.producthunt.com/leaderboard/daily/2013/12/29,"Visually spectacular, campy 80s action comedy",['Tech'],5,76
-337,Spark Camera,https://www.producthunt.com/products/spark-camera,https://www.producthunt.com/leaderboard/daily/2013/12/29,Make memorable videos,['Tech'],0,74
-338,Cleartrip,https://www.producthunt.com/products/cleartrip,https://www.producthunt.com/leaderboard/daily/2013/12/29,KAYAK.com for India and Middle East,['Tech'],4,64
-339,TicTrac,https://www.producthunt.com/products/tictrac,https://www.producthunt.com/leaderboard/daily/2013/12/29,Track all your activities and discover what makes you tick.,['Tech'],0,56
-340,Get UDID,https://www.producthunt.com/products/get-udid,https://www.producthunt.com/leaderboard/daily/2013/12/29,Find the UDID of an iPhone/iPad without having to use iTunes,['Tech'],1,82
-341,Sunrise,https://www.producthunt.com/products/sunrise,https://www.producthunt.com/leaderboard/daily/2013/12/30,Beautifully designed calendar app,"['Android', 'iOS', 'Mac']",35,179
-342,Deckset,https://www.producthunt.com/products/deckset,https://www.producthunt.com/leaderboard/daily/2013/12/30,Create beautiful presentations from markdown,['Tech'],4,98
-343,Couple,https://www.producthunt.com/products/couple,https://www.producthunt.com/leaderboard/daily/2013/12/30,An app for two,['Tech'],12,74
-344,Wanderu,https://www.producthunt.com/products/wanderu,https://www.producthunt.com/leaderboard/daily/2013/12/30,Kayak for bus and train travel. ,"['Android', 'iOS', 'Web App']",2,105
-345,Fito Group Fitness ,https://www.producthunt.com/products/fito-group-fitness,https://www.producthunt.com/leaderboard/daily/2013/12/30,"Convenient, effective fitness coaching to reach any goal.",['Tech'],7,72
-346,Embed Curl,https://www.producthunt.com/products/embed-curl,https://www.producthunt.com/leaderboard/daily/2013/12/30,"Embeddable curl commands for your web site, blog or API docs",['Tech'],0,62
-347,Coinbase Merchant,https://www.producthunt.com/products/coinbase-merchant,https://www.producthunt.com/leaderboard/daily/2013/12/30,Android POS app to let any store accept Bitcoin,['Tech'],0,70
-348,Conference Badge  ,https://www.producthunt.com/products/conference-badge,https://www.producthunt.com/leaderboard/daily/2013/12/30,Name badges. Easy and fast.,['Tech'],1,96
-349,Musixmatch,https://www.producthunt.com/products/musixmatch,https://www.producthunt.com/leaderboard/daily/2013/12/30,The world's largest lyrics catalog,['Tech'],1,66
-350,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/30,AWS Builder Center,['Promoted'],,
-351,MixBit,https://www.producthunt.com/products/mixbit,https://www.producthunt.com/leaderboard/daily/2013/12/30,Create dynamic videos together.,['Tech'],1,62
-352,BeFIT,https://www.producthunt.com/products/befit,https://www.producthunt.com/leaderboard/daily/2013/12/30,Track anything anywhere,['Tech'],5,55
-353,Selz,https://www.producthunt.com/products/selz,https://www.producthunt.com/leaderboard/daily/2013/12/30,Seriously simple selling,"['E-Commerce', 'Tech']",1,63
-354,Flinto,https://www.producthunt.com/products/flinto,https://www.producthunt.com/leaderboard/daily/2013/12/31,Quickly Create iOS Prototypes,['Tech'],7,85
-355,Red Pen,https://www.producthunt.com/products/red-pen,https://www.producthunt.com/leaderboard/daily/2013/12/31,Effing Fast Feedback,['Tech'],8,96
-356,Jukely,https://www.producthunt.com/products/jukely,https://www.producthunt.com/leaderboard/daily/2013/12/31,Matchmaker for concerts + friends,['Tech'],25,90
-357,CloudApp,https://www.producthunt.com/products/zight,https://www.producthunt.com/leaderboard/daily/2013/12/31,Great screenshot sharing tool,['Tech'],6,72
-358,Limitless,https://www.producthunt.com/products/limitless,https://www.producthunt.com/leaderboard/daily/2013/12/31,A productivity companion for Chrome,['Tech'],9,95
-359,Ecoute for iOS,https://www.producthunt.com/products/ecoute-for-ios,https://www.producthunt.com/leaderboard/daily/2013/12/31,Highlight your music,['Tech'],5,68
-360,Seven-minute workout,https://www.producthunt.com/products/seven-minute-workout,https://www.producthunt.com/leaderboard/daily/2013/12/31,Beautiful and simple. ,['Tech'],0,81
-361,Flipagram,https://www.producthunt.com/products/flipagram,https://www.producthunt.com/leaderboard/daily/2013/12/31,Bring moments to life.,"['Android', 'iOS', 'Photography']",3,78
-362,Composite,https://www.producthunt.com/products/composite,https://www.producthunt.com/leaderboard/daily/2013/12/31,Make your photoshops prototypes interactive!,['Tech'],1,65
-363,Promoted,https://www.producthunt.com/sponsor,https://www.producthunt.com/leaderboard/daily/2013/12/31,AWS Builder Center,['Promoted'],,
-364,Reppio,https://www.producthunt.com/products/reppio,https://www.producthunt.com/leaderboard/daily/2013/12/31,"""The Fancy"" for SMBs",['Tech'],0,55
-365,Flair,https://www.producthunt.com/products/flair,https://www.producthunt.com/leaderboard/daily/2013/12/31,Browse fashion districts and styles around the world,['Tech'],2,56
-366,Twine,https://www.producthunt.com/products/twine-2,https://www.producthunt.com/leaderboard/daily/2013/12/31,Flirt Anonymously,['Tech'],3,61
+title,product_url,source_url,description,tags,comment,upvote
+Product Hunt,https://www.producthunt.com/products/producthunt,https://www.producthunt.com/leaderboard/daily/2013/11/26,Discover and geek out about cool new products,['Tech'],9,146
+Product Hunt,https://www.producthunt.com/products/producthunt,https://www.producthunt.com/leaderboard/daily/2013/11/27,Discover your next favorite thing 😻,"['iOS', 'Web App', 'Tech']",41,197
+Blinkist,https://www.producthunt.com/products/blinkist,https://www.producthunt.com/leaderboard/daily/2013/11/27,"Key insights from 2,000+ bestselling nonfiction books","['Android', 'iOS', 'Web App']",19,195
+CoffeeMe,https://www.producthunt.com/products/coffeeme,https://www.producthunt.com/leaderboard/daily/2013/11/27,Tinder for Professional Networking,['Tech'],8,97
+coub,https://www.producthunt.com/products/coub,https://www.producthunt.com/leaderboard/daily/2013/11/27,Lets you pair audio w/ short video for hilarious meme-effect,"['iOS', 'iPad', 'Web App']",3,78
+Storyboard,https://www.producthunt.com/products/storyboard,https://www.producthunt.com/leaderboard/daily/2013/11/27,Press kit platform,['Tech'],4,65
+Mindie,https://www.producthunt.com/products/mindie,https://www.producthunt.com/leaderboard/daily/2013/11/27,Create 7-Second Music Videos,['Tech'],8,105
+Refresh,https://www.producthunt.com/products/refresh,https://www.producthunt.com/leaderboard/daily/2013/11/27,Discover common ground for better conversations,['Tech'],7,98
+Bonsai,https://www.producthunt.com/products/bonsai-2,https://www.producthunt.com/leaderboard/daily/2013/11/27,SMS-based daily reflection tool,['Tech'],4,71
+Readmill,https://www.producthunt.com/products/readmill,https://www.producthunt.com/leaderboard/daily/2013/11/27,"A beautiful e-book reader for iPhone, iPad and Android",['Tech'],1,69
+Console.fm,https://www.producthunt.com/products/console-fm,https://www.producthunt.com/leaderboard/daily/2013/11/27,Top 100 charts for electronic dance music,['Tech'],2,75
+Exposure,https://www.producthunt.com/products/exposure,https://www.producthunt.com/leaderboard/daily/2013/11/27,Create Beautiful Photo Narratives,"['Web App', 'Tech']",2,70
+Bookd,https://www.producthunt.com/products/bookd,https://www.producthunt.com/leaderboard/daily/2013/11/27,Your booking storefront. Just rebuilt.,['Tech'],2,69
+Readtime ,https://www.producthunt.com/products/readtime,https://www.producthunt.com/leaderboard/daily/2013/11/27,Helps me get through my pocket,['Tech'],2,68
+Hatch,https://www.producthunt.com/products/hatch-2,https://www.producthunt.com/leaderboard/daily/2013/11/27,The app that loves you back,['Tech'],2,78
+React Messenger,https://www.producthunt.com/products/react-messenger,https://www.producthunt.com/leaderboard/daily/2013/11/27,Selfie Messenging,"['Messaging', 'Tech']",5,72
+UXPin,https://www.producthunt.com/products/uxpin,https://www.producthunt.com/leaderboard/daily/2013/11/28,Free design and prototyping tool for teams and professionals,"['Design Tools', 'Prototyping']",9,120
+Telescope,https://www.producthunt.com/products/telescope-2,https://www.producthunt.com/leaderboard/daily/2013/11/28,Open-source HN clone built with Meteor,['Tech'],5,106
+Cluster,https://www.producthunt.com/products/cluster-2,https://www.producthunt.com/leaderboard/daily/2013/11/28,Share and create photo albums with friends and family,"['Android', 'iOS', 'Web App']",8,85
+Thoughtback,https://www.producthunt.com/products/thoughtback,https://www.producthunt.com/leaderboard/daily/2013/11/28,"Program your mind, one thought at a time",['Tech'],9,19
+OhLife,https://www.producthunt.com/products/ohlife,https://www.producthunt.com/leaderboard/daily/2013/11/28,Write in private about your life,['Tech'],8,82
+Monocle,https://www.producthunt.com/products/monocle,https://www.producthunt.com/leaderboard/daily/2013/11/28,HN-like Community for Tech and Startups (now open source),['Tech'],2,13
+Lonenote,https://www.producthunt.com/products/lonenote,https://www.producthunt.com/leaderboard/daily/2013/11/28,"PostSecret, reinvented as an iPhone app",['Tech'],1,56
+Captio,https://www.producthunt.com/products/captio,https://www.producthunt.com/leaderboard/daily/2013/11/29,Email yourself with one tap,"['iOS', 'Tech']",13,93
+QuickCast,https://www.producthunt.com/products/quickcast,https://www.producthunt.com/leaderboard/daily/2013/11/29,3 Minute Screencasts,['Tech'],5,74
+Just Porter,https://www.producthunt.com/products/just-porter,https://www.producthunt.com/leaderboard/daily/2013/11/29,Tom's shoes for Backpacks,['Tech'],1,7
+Honey,https://www.producthunt.com/products/honey,https://www.producthunt.com/leaderboard/daily/2013/11/30,Honey automatically applies the best coupon code at checkout,"['Web App', 'Chrome Extensions', 'Tech']",33,236
+Mogl,https://www.producthunt.com/products/mogl,https://www.producthunt.com/leaderboard/daily/2013/11/30,Fight hunger with hunger,['Tech'],5,75
+Marvel,https://www.producthunt.com/products/marvel,https://www.producthunt.com/leaderboard/daily/2013/11/30,Create interactive prototypes from files in Dropbox,"['Web App', 'Tech']",10,99
+Sugarbox,https://www.producthunt.com/products/sugarbox,https://www.producthunt.com/leaderboard/daily/2013/11/30,Button for Real-Time Website Collaboration,['Tech'],4,65
+Kiind,https://www.producthunt.com/products/kiind,https://www.producthunt.com/leaderboard/daily/2013/11/30,Pay-later digital gift platform,['Tech'],5,9
+Agent,https://www.producthunt.com/products/agent,https://www.producthunt.com/leaderboard/daily/2013/11/30,Automate daily tasks on your Android device,['Tech'],4,62
+Ostrich Pillow,https://www.producthunt.com/products/ostrich-pillow,https://www.producthunt.com/leaderboard/daily/2013/12/1,Take a comfortable nap anywhere,['Tech'],3,83
+ForkFox,https://www.producthunt.com/products/forkfox,https://www.producthunt.com/leaderboard/daily/2013/12/1,Culinary tours of SF,['Tech'],0,52
+SnapBird,https://www.producthunt.com/products/snapbird,https://www.producthunt.com/leaderboard/daily/2013/12/1,Search beyond Twitter’s history,"['Productivity', 'Tech']",5,60
+Trello,https://www.producthunt.com/products/trello,https://www.producthunt.com/leaderboard/daily/2013/12/2,"Powering millions of teams to work smarter, together","['Android', 'iOS', 'iPad']",129,650
+Momentum,https://www.producthunt.com/products/momentum-3,https://www.producthunt.com/leaderboard/daily/2013/12/2,Replace your new tab page with focus goals,"['Safari Extensions', 'Browser Extensions', 'Chrome Extensions']",30,198
+Coffitivity,https://www.producthunt.com/products/coffitivity,https://www.producthunt.com/leaderboard/daily/2013/12/2,Drown out workplace chatter with the sounds of a coffeeshop,"['Web App', 'Tech']",13,107
+Draft,https://www.producthunt.com/products/draft,https://www.producthunt.com/leaderboard/daily/2013/12/2,GitHub for writing,"['Productivity', 'Writing', 'Text Editors']",14,117
+Karma,https://www.producthunt.com/products/karma-2,https://www.producthunt.com/leaderboard/daily/2013/12/2,social wifi,['Tech'],5,83
+Delighted,https://www.producthunt.com/products/delighted,https://www.producthunt.com/leaderboard/daily/2013/12/2,Easy and beautiful NPS tracking,['Tech'],10,78
+BRCK,https://www.producthunt.com/products/brck,https://www.producthunt.com/leaderboard/daily/2013/12/2,The rugged wi-fi hotspot (that works in Africa),['Tech'],3,69
+Tame.it,https://www.producthunt.com/products/tame-it,https://www.producthunt.com/leaderboard/daily/2013/12/2,"Trending links, hashtags, and people for those you follow",['Tech'],2,59
+OKDOTHIS,https://www.producthunt.com/products/okdothis,https://www.producthunt.com/leaderboard/daily/2013/12/2,Idea sharing for photographers,['Tech'],3,82
+Preceden,https://www.producthunt.com/products/preceden,https://www.producthunt.com/leaderboard/daily/2013/12/2,Make an amazing timeline in minutes,['Tech'],1,61
+Slack,https://www.producthunt.com/products/slack,https://www.producthunt.com/leaderboard/daily/2013/12/3,"Be less busy. Real-time messaging, archiving & search.","['Android', 'iOS', 'Mac']",288,"1,674"
+Toggl,https://www.producthunt.com/products/toggl,https://www.producthunt.com/leaderboard/daily/2013/12/3,insanely simple free time tracking,"['Android', 'iOS', 'Linux']",19,125
+Calm,https://www.producthunt.com/products/calm,https://www.producthunt.com/leaderboard/daily/2013/12/3,Take a break and meditate.,"['Android', 'iOS', 'Web App']",20,147
+Luna,https://www.producthunt.com/products/luna,https://www.producthunt.com/leaderboard/daily/2013/12/3,Delivers your packages when you're home for the night.,"['iOS', 'Tech']",12,97
+Unroll.me,https://www.producthunt.com/products/unroll-me,https://www.producthunt.com/leaderboard/daily/2013/12/3,Clean up your inbox,['Tech'],11,101
+Sprig,https://www.producthunt.com/products/sprig-2,https://www.producthunt.com/leaderboard/daily/2013/12/3,Hand-crafted dinners on demand,"['Health & Fitness', 'On-Demand', 'Tech']",9,173
+Dash,https://www.producthunt.com/products/dash-3,https://www.producthunt.com/leaderboard/daily/2013/12/3,Learn to make awesome websites,"['Web App', 'Education', 'Languages']",8,112
+Context,https://www.producthunt.com/products/context,https://www.producthunt.com/leaderboard/daily/2013/12/3,fast visual texting,['Tech'],8,67
+Fetchntoes,https://www.producthunt.com/products/fetchntoes,https://www.producthunt.com/leaderboard/daily/2013/12/3,Organize and share your notes how you want.,['Tech'],5,64
+Superhuman.io,https://www.producthunt.com/products/superhuman-io,https://www.producthunt.com/leaderboard/daily/2013/12/3,"Do everything, be everywhere",['Tech'],9,77
+Dizzybees,https://www.producthunt.com/products/dizzybees,https://www.producthunt.com/leaderboard/daily/2013/12/3,Addictive ios game like candycrush. Smart monetization.,['Tech'],3,57
+Athos,https://www.producthunt.com/products/athos,https://www.producthunt.com/leaderboard/daily/2013/12/4,Wearable workout clothes that track your workouts,['Tech'],7,106
+Songdrop,https://www.producthunt.com/products/songdrop,https://www.producthunt.com/leaderboard/daily/2013/12/4,Pinterest for music,['Tech'],0,63
+Matter.io Remix,https://www.producthunt.com/products/matter-io-remix,https://www.producthunt.com/leaderboard/daily/2013/12/4,"Make simple, fun changes to 3D model designs",['Tech'],6,60
+Pivvot,https://www.producthunt.com/products/pivvot,https://www.producthunt.com/leaderboard/daily/2013/12/4,A fun test of spatial awareness and reflexes (great game),['Tech'],5,56
+Michron,https://www.producthunt.com/products/michron,https://www.producthunt.com/leaderboard/daily/2013/12/4,Timelapse Photography for Everyone,['Tech'],0,55
+CanOpener,https://www.producthunt.com/products/canopener,https://www.producthunt.com/leaderboard/daily/2013/12/4,Fine tune your headphones,"['iOS', 'Music', 'Tech']",2,67
+StartupList,https://www.producthunt.com/products/startuplist,https://www.producthunt.com/leaderboard/daily/2013/12/4,"Discover startups, gain early traction",['Tech'],6,88
+WiseCash,https://www.producthunt.com/products/wisecash,https://www.producthunt.com/leaderboard/daily/2013/12/4,Master your cash-flow,['Tech'],2,58
+StoryWorth,https://www.producthunt.com/products/storyworth,https://www.producthunt.com/leaderboard/daily/2013/12/4,Easily record family stories,['Tech'],9,77
+Boya,https://www.producthunt.com/products/boya,https://www.producthunt.com/leaderboard/daily/2013/12/4,One Sentence Snapblogging,['Tech'],3,71
+Beats Music,https://www.producthunt.com/products/beats-music,https://www.producthunt.com/leaderboard/daily/2013/12/4,Music Streaming Service Backed by Dr. Dre,['Tech'],5,60
+Colored Coins,https://www.producthunt.com/products/colored-coins,https://www.producthunt.com/leaderboard/daily/2013/12/4,Bitcoin Minting Protocol,['Tech'],0,58
+Bench,https://www.producthunt.com/products/bench-accounting,https://www.producthunt.com/leaderboard/daily/2013/12/4,A new kind of accountant,['Tech'],3,118
+Noisli,https://www.producthunt.com/products/noisli,https://www.producthunt.com/leaderboard/daily/2013/12/5,Noise generator ideal for working and relaxing.,"['iOS', 'iPad', 'Web App']",9,106
+Washio,https://www.producthunt.com/products/washio,https://www.producthunt.com/leaderboard/daily/2013/12/5,Uber for Laundry and Dry Cleaning,"['Android', 'iOS', 'iPad']",22,136
+Heyday,https://www.producthunt.com/products/hey-3,https://www.producthunt.com/leaderboard/daily/2013/12/5,Personal auto journal,['Tech'],21,140
+App.IO,https://www.producthunt.com/products/addapp-2-0,https://www.producthunt.com/leaderboard/daily/2013/12/5,Share your iPhone and iPad apps in any browser,['Tech'],3,68
+Hurlin' Mike,https://www.producthunt.com/products/hurlin-mike,https://www.producthunt.com/leaderboard/daily/2013/12/5,Take all of your whiteboard photos & transcribe them.,['Tech'],6,59
+Voicestorm,https://www.producthunt.com/products/voicestorm,https://www.producthunt.com/leaderboard/daily/2013/12/5,Gets your company to amplify news together,['Tech'],4,82
+Marco Polo,https://www.producthunt.com/products/marco-polo-2,https://www.producthunt.com/leaderboard/daily/2013/12/5,SnapChat for your location,['Tech'],1,56
+Offline Mag,https://www.producthunt.com/products/offline-mag,https://www.producthunt.com/leaderboard/daily/2013/12/5,Mobile Magazine with Full Audio,['Tech'],5,56
+Kwote,https://www.producthunt.com/products/kwote,https://www.producthunt.com/leaderboard/daily/2013/12/5,Beautiful quotes from the Iddiction team,['Tech'],3,55
+Watchsend,https://www.producthunt.com/products/watchsend,https://www.producthunt.com/leaderboard/daily/2013/12/5,Video recordings of users' interactions for your iOS app,['Tech'],1,62
+Canva,https://www.producthunt.com/products/canva,https://www.producthunt.com/leaderboard/daily/2013/12/6,Amazingly simple graphic design,"['iOS', 'iPad', 'Web App']",77,306
+Lob,https://www.producthunt.com/products/lob,https://www.producthunt.com/leaderboard/daily/2013/12/6,Programmatically send physical mail and verify addresses,"['Web App', 'API', 'Marketing']",4,85
+Pressroom,https://www.producthunt.com/products/pressroom,https://www.producthunt.com/leaderboard/daily/2013/12/6,Create your press page in minutes,"['Public Relations', 'Tech']",9,85
+BottlesTonight,https://www.producthunt.com/products/bottlestonight,https://www.producthunt.com/leaderboard/daily/2013/12/6,HotelsTonight for Bottle Service,['Tech'],19,79
+Selfieclub,https://www.producthunt.com/products/selfieclub,https://www.producthunt.com/leaderboard/daily/2013/12/6,"Have fun taking Selfies, No adults allowed!",['Tech'],3,58
+Safe,https://www.producthunt.com/products/yc,https://www.producthunt.com/leaderboard/daily/2013/12/6,"Convertible debt, without the debt",['Tech'],10,84
+Locket,https://www.producthunt.com/products/locket,https://www.producthunt.com/leaderboard/daily/2013/12/6,Lock Screen Ads on Android — Get paid to unlock your phone,['Tech'],2,62
+Lighthouse,https://www.producthunt.com/products/lighthouse,https://www.producthunt.com/leaderboard/daily/2013/12/6,A hacker news for community builders.,['Tech'],4,68
+Upbeat,https://www.producthunt.com/products/upbeat,https://www.producthunt.com/leaderboard/daily/2013/12/6,The Reddit of music.,['Tech'],5,62
+Totemapp,https://www.producthunt.com/products/totemapp,https://www.producthunt.com/leaderboard/daily/2013/12/6,Build a great press page right now,['Tech'],4,56
+Airchat,https://www.producthunt.com/products/airchat,https://www.producthunt.com/leaderboard/daily/2013/12/6,Location-based chatting with group controls,['Tech'],2,56
+Skulpt Aim,https://www.producthunt.com/products/skulpt-aim,https://www.producthunt.com/leaderboard/daily/2013/12/6,Innovative device for measuring body composition,['Tech'],1,67
+Fiverr,https://www.producthunt.com/products/fiverr,https://www.producthunt.com/leaderboard/daily/2013/12/7,"Graphics, marketing, fun, and more online services for $5","['Productivity', 'Tech']",6,113
+Coin,https://www.producthunt.com/products/coin,https://www.producthunt.com/leaderboard/daily/2013/12/7,The one card to replace every other card,['Tech'],13,129
+Lead Genius,https://www.producthunt.com/products/lead-genius,https://www.producthunt.com/leaderboard/daily/2013/12/7,Customer acquisition as a service,"['Marketing', 'Tech']",4,107
+Touchcast,https://www.producthunt.com/products/touchcast,https://www.producthunt.com/leaderboard/daily/2013/12/7,Experience the web inside a video,['Tech'],4,62
+Personal Capital,https://www.producthunt.com/products/personal-capital,https://www.producthunt.com/leaderboard/daily/2013/12/7,"All your accounts, All in one place.",['Tech'],3,113
+GifPop,https://www.producthunt.com/products/gifpop,https://www.producthunt.com/leaderboard/daily/2013/12/7,A tool to make custom cards from animated gifs,['Tech'],3,68
+Zeega,https://www.producthunt.com/products/zeega,https://www.producthunt.com/leaderboard/daily/2013/12/7,Easiest way to create and share interactive videos,['Tech'],2,60
+Wood Cut Maps,https://www.producthunt.com/products/wood-cut-maps,https://www.producthunt.com/leaderboard/daily/2013/12/7,"Handcrafted wood-inlay maps, designed by you.",['Tech'],4,84
+TalkTo,https://www.producthunt.com/products/talkto,https://www.producthunt.com/leaderboard/daily/2013/12/7,"Never Make Another Phone Call, Text Message Businesses",['Tech'],2,65
+Umano,https://www.producthunt.com/products/umano,https://www.producthunt.com/leaderboard/daily/2013/12/8,Interesting articles read to you by real people,['Tech'],26,116
+Skedadel,https://www.producthunt.com/products/skedadel,https://www.producthunt.com/leaderboard/daily/2013/12/8,Discover the perfect places to go through Instagram moments.,['Tech'],4,62
+Paprika.sh,https://www.producthunt.com/products/paprika-sh,https://www.producthunt.com/leaderboard/daily/2013/12/8,A platform to build & share your brand.,['Tech'],1,70
+TIME Planner,https://www.producthunt.com/products/time-planner,https://www.producthunt.com/leaderboard/daily/2013/12/8,Todo list meets calendar,['Tech'],12,74
+Musio,https://www.producthunt.com/products/musio,https://www.producthunt.com/leaderboard/daily/2013/12/8,A new take on the iOS music player,['Tech'],0,57
+Sketch,https://www.producthunt.com/products/sketch,https://www.producthunt.com/leaderboard/daily/2013/12/9,Vector only UI design,['Tech'],10,106
+theSkimm,https://www.producthunt.com/products/theskimm,https://www.producthunt.com/leaderboard/daily/2013/12/9,Daily summary of current events in your inbox,['Tech'],7,106
+Assembly,https://www.producthunt.com/products/assembly,https://www.producthunt.com/leaderboard/daily/2013/12/9,Quirky for Software,"['Web App', 'Tech']",14,109
+BloomThat,https://www.producthunt.com/products/bloomthat,https://www.producthunt.com/leaderboard/daily/2013/12/9,Ridiculously fast flowers,['Tech'],4,90
+Picatic,https://www.producthunt.com/products/picatic,https://www.producthunt.com/leaderboard/daily/2013/12/9,A powerful registration platform for event organizers.,"['Web App', 'Events', 'API']",5,134
+A+,https://www.producthunt.com/products/a,https://www.producthunt.com/leaderboard/daily/2013/12/9,Discover the Best Products,['Tech'],4,75
+Cage,https://www.producthunt.com/products/cage,https://www.producthunt.com/leaderboard/daily/2013/12/9,Collaboration just got a whole lot easier.,['Tech'],3,58
+Codecademy App,https://www.producthunt.com/products/codecademy-app,https://www.producthunt.com/leaderboard/daily/2013/12/9,Learn to code on  your iPhone,['Tech'],7,74
+Zesty,https://www.producthunt.com/products/zesty,https://www.producthunt.com/leaderboard/daily/2013/12/9,Healthy food takeout and delivery app,['Tech'],3,108
+Figure1,https://www.producthunt.com/products/figure1,https://www.producthunt.com/leaderboard/daily/2013/12/9,"Free, safe photo sharing for healthcare professionals",['Tech'],0,80
+Blippy,https://www.producthunt.com/products/blippy,https://www.producthunt.com/leaderboard/daily/2013/12/9,Create visual messages,['Tech'],5,57
+Renderly,https://www.producthunt.com/products/renderly,https://www.producthunt.com/leaderboard/daily/2013/12/9,Photoshop plugin that auto-exports design changes,['Tech'],1,55
+Typeform,https://www.producthunt.com/products/typeform,https://www.producthunt.com/leaderboard/daily/2013/12/10,"Typeform makes asking questions easy, human & beautiful","['Web App', 'User Experience', 'Tech']",9,269
+Sqwiggle,https://www.producthunt.com/products/sqwiggle,https://www.producthunt.com/leaderboard/daily/2013/12/10,24/7 Video Chat for Remote Teams,['Tech'],16,192
+VSCO Cam,https://www.producthunt.com/products/vsco,https://www.producthunt.com/leaderboard/daily/2013/12/10,The standard in mobile photography,['Tech'],6,105
+Gibbon,https://www.producthunt.com/products/gibbon,https://www.producthunt.com/leaderboard/daily/2013/12/10,Playlists for learning,['Tech'],16,103
+Giphy,https://www.producthunt.com/products/giphy,https://www.producthunt.com/leaderboard/daily/2013/12/10,Search animated GIFs on the web,"['Web App', 'Tech']",10,115
+Doctor on Demand,https://www.producthunt.com/products/doctor-on-demand,https://www.producthunt.com/leaderboard/daily/2013/12/10,On demand video chat with licensed doctors,['Tech'],1,75
+Apiary,https://www.producthunt.com/products/apiary,https://www.producthunt.com/leaderboard/daily/2013/12/10,Blueprint for API Development,['Tech'],3,79
+Liberio,https://www.producthunt.com/products/liberio,https://www.producthunt.com/leaderboard/daily/2013/12/10,One click eBook publishing from Google Drive (pre-launch),['Tech'],4,86
+Friendlibs,https://www.producthunt.com/products/friendlibs,https://www.producthunt.com/leaderboard/daily/2013/12/10,Make your own ad lib listicles about your friends,['Tech'],3,55
+Poll Everywhere,https://www.producthunt.com/products/poll-everywhere,https://www.producthunt.com/leaderboard/daily/2013/12/10,Live interactive audience participation,"['Events', 'Education', 'SaaS']",1,63
+Mixture,https://www.producthunt.com/products/mixture,https://www.producthunt.com/leaderboard/daily/2013/12/10,Frontend development tools made easy,['Tech'],2,72
+Blue Goji,https://www.producthunt.com/products/blue-goji,https://www.producthunt.com/leaderboard/daily/2013/12/10,Gamified Exercise Equipment,['Tech'],10,61
+Tinybop,https://www.producthunt.com/products/tinybop,https://www.producthunt.com/leaderboard/daily/2013/12/10,Toys for Tomorrow,['Tech'],1,59
+Put.io,https://www.producthunt.com/products/put-io,https://www.producthunt.com/leaderboard/daily/2013/12/11,Download all the things!,['Tech'],24,145
+Gumroad,https://www.producthunt.com/products/gumroad,https://www.producthunt.com/leaderboard/daily/2013/12/11,Sell anything directly to anyone.,['Tech'],7,160
+Openbeta,https://www.producthunt.com/products/openbeta,https://www.producthunt.com/leaderboard/daily/2013/12/11,help betaworks test products early,['Tech'],18,83
+Distiller,https://www.producthunt.com/products/distiller,https://www.producthunt.com/leaderboard/daily/2013/12/11,Your personal whiskey recommendation engine,"['Drinking', 'Tech']",6,77
+Leo,https://www.producthunt.com/products/leo,https://www.producthunt.com/leaderboard/daily/2013/12/11,Lightweight Snapchat,['Tech'],11,67
+Anomo,https://www.producthunt.com/products/anomo,https://www.producthunt.com/leaderboard/daily/2013/12/11,Anonymous Social Network,['Tech'],2,59
+Snake Next,https://www.producthunt.com/products/snake-next,https://www.producthunt.com/leaderboard/daily/2013/12/11,Nokia's Snake reinvented,['Tech'],1,65
+Chronos ,https://www.producthunt.com/products/chronos,https://www.producthunt.com/leaderboard/daily/2013/12/11,Find your time,['Tech'],3,57
+Full,https://www.producthunt.com/products/full,https://www.producthunt.com/leaderboard/daily/2013/12/11,"Track, measure and visualize what's important to you.",['Tech'],4,77
+SunnyComb,https://www.producthunt.com/products/sunnycomb,https://www.producthunt.com/leaderboard/daily/2013/12/11, Sunnycomb is a social weather app ,['Tech'],6,57
+Intercom,https://www.producthunt.com/products/intercom,https://www.producthunt.com/leaderboard/daily/2013/12/12,Communicate personally with every single customer.,"['Android', 'iOS', 'iPad']",43,293
+Shyp,https://www.producthunt.com/products/shyp,https://www.producthunt.com/leaderboard/daily/2013/12/12,The easiest way to ship your stuff,"['Delivery', 'Tech']",12,101
+Plug,https://www.producthunt.com/products/plug,https://www.producthunt.com/leaderboard/daily/2013/12/12,Lightweight OSX player for Hype Machine,"['Mac', 'Tech']",5,87
+Newsle,https://www.producthunt.com/products/newsle,https://www.producthunt.com/leaderboard/daily/2013/12/12,News about your network,['Tech'],5,91
+Coinbase,https://www.producthunt.com/products/coinbase,https://www.producthunt.com/leaderboard/daily/2013/12/12,"digital wallet to buy, use, and accept bitcoin",['Tech'],18,95
+Quarterly,https://www.producthunt.com/products/quarterly,https://www.producthunt.com/leaderboard/daily/2013/12/12,Curated packages from people you care about,['Tech'],1,65
+Jauntful,https://www.producthunt.com/products/jauntful,https://www.producthunt.com/leaderboard/daily/2013/12/12,"Create shareable, printable guides to cities",['Tech'],8,72
+Ins and outs,https://www.producthunt.com/products/ins-and-outs,https://www.producthunt.com/leaderboard/daily/2013/12/12,A simple activity tracker for your newborn,['Tech'],3,57
+Brace,https://www.producthunt.com/products/brace,https://www.producthunt.com/leaderboard/daily/2013/12/12,Host static sites on dropbox,['Tech'],0,65
+Recite,https://www.producthunt.com/products/recite,https://www.producthunt.com/leaderboard/daily/2013/12/12,Turn a Quote into a Masterpiece,['Tech'],2,79
+Google Sheets,https://www.producthunt.com/products/dragondrop,https://www.producthunt.com/leaderboard/daily/2013/12/12,Excel in the cloud,['Tech'],4,84
+Highlight 2.0,https://www.producthunt.com/products/highlight-2-0,https://www.producthunt.com/leaderboard/daily/2013/12/12,Find friends and new people nearby,['Tech'],4,78
+ClientFlow,https://www.producthunt.com/products/clientflow,https://www.producthunt.com/leaderboard/daily/2013/12/12,Manage your client relationships,['Tech'],5,76
+Duo,https://www.producthunt.com/products/duo,https://www.producthunt.com/leaderboard/daily/2013/12/12,Dual-paned web browser for responsive web design.,['Tech'],1,72
+Brewster,https://www.producthunt.com/products/brewster,https://www.producthunt.com/leaderboard/daily/2013/12/12,Your social address book.,['Tech'],1,82
+Cozymeal,https://www.producthunt.com/products/cozymeal,https://www.producthunt.com/leaderboard/daily/2013/12/12,Eat or host great home cooked meals,['Tech'],5,58
+Connect,https://www.producthunt.com/products/myplace-connect,https://www.producthunt.com/leaderboard/daily/2013/12/12,"""Find Friends"" for all of your networks",['Tech'],1,57
+HandUp,https://www.producthunt.com/products/handup,https://www.producthunt.com/leaderboard/daily/2013/12/13,Direct giving to SF's homeless for the things they need.,['Tech'],3,83
+Tuft & Needle,https://www.producthunt.com/products/tuft-needle,https://www.producthunt.com/leaderboard/daily/2013/12/13,Sleep on an honestly crafted bed at a fair price,['Tech'],16,89
+Fitstar,https://www.producthunt.com/products/fitstar,https://www.producthunt.com/leaderboard/daily/2013/12/13,"Fitness app - previously on the iPad only, now on iPhones",['Tech'],3,68
+Inc,https://www.producthunt.com/products/inc,https://www.producthunt.com/leaderboard/daily/2013/12/13,"Share links, notes and files in one place.",['Tech'],5,71
+(naow),https://www.producthunt.com/products/naow,https://www.producthunt.com/leaderboard/daily/2013/12/13,"Ask anything, to anyone nearby",['Tech'],4,66
+Jackpocket,https://www.producthunt.com/products/jackpocket,https://www.producthunt.com/leaderboard/daily/2013/12/13,Mobile App for Playing Lotto,['Tech'],3,63
+Gabaway,https://www.producthunt.com/products/gabaway,https://www.producthunt.com/leaderboard/daily/2013/12/13,Animated avatar conversations,['Tech'],5,58
+MailParser,https://www.producthunt.com/products/mailparser,https://www.producthunt.com/leaderboard/daily/2013/12/14,Extract data from e-mails. Automate your business.,"['Web App', 'Tech']",2,76
+dataSTICKIES,https://www.producthunt.com/products/datastickies,https://www.producthunt.com/leaderboard/daily/2013/12/14,Graphene-based flash drives that may replace USB sticks,['Tech'],3,74
+Quibb,https://www.producthunt.com/products/quibb,https://www.producthunt.com/leaderboard/daily/2013/12/14,Professional network to share industry news and analysis,['Tech'],14,91
+Bubbli,https://www.producthunt.com/products/bubbli,https://www.producthunt.com/leaderboard/daily/2013/12/14,Dynamic Spherical Photos,['Tech'],5,61
+Robinhood,https://www.producthunt.com/products/robinhood,https://www.producthunt.com/leaderboard/daily/2013/12/14,$0 comission stock brokerage,['Tech'],11,175
+Clouddock,https://www.producthunt.com/products/clouddock,https://www.producthunt.com/leaderboard/daily/2013/12/14,Automatically store files to cloud service of your choice,['Tech'],1,59
+Dovetail,https://www.producthunt.com/products/dovetail-2,https://www.producthunt.com/leaderboard/daily/2013/12/14,Simple coworking space management software.,['Tech'],10,62
+Domainr,https://www.producthunt.com/products/domainr,https://www.producthunt.com/leaderboard/daily/2013/12/15,Worldwide domain search,"['Developer Tools', 'Tech']",7,130
+Draw.io,https://www.producthunt.com/products/draw-io,https://www.producthunt.com/leaderboard/daily/2013/12/15,Create and share diagrams easily,['Tech'],11,101
+Getfeedback,https://www.producthunt.com/products/getfeedback,https://www.producthunt.com/leaderboard/daily/2013/12/15,"Create enaging, Mobile ready surveys.",['Tech'],0,79
+Tiny Blog,https://www.producthunt.com/products/tiny-blog,https://www.producthunt.com/leaderboard/daily/2013/12/15,Ambient Video Blogging (prototype by Kevin Rose),['Tech'],13,80
+knwl.js,https://www.producthunt.com/products/knwl-js,https://www.producthunt.com/leaderboard/daily/2013/12/15,Pull important data from large text blocks,['Tech'],1,62
+Leap Transit,https://www.producthunt.com/products/leap-transit,https://www.producthunt.com/leaderboard/daily/2013/12/15,New (limited) shuttle service for San Francisco commuters,['Tech'],3,73
+Groove,https://www.producthunt.com/products/groove,https://www.producthunt.com/leaderboard/daily/2013/12/16,Simple online help desk,"['Web App', 'Tech']",3,93
+Just Delete Me,https://www.producthunt.com/products/just-delete-me,https://www.producthunt.com/leaderboard/daily/2013/12/16,A directory of direct links to delete your account.,['Tech'],1,115
+Help Me Write,https://www.producthunt.com/products/help-me-write,https://www.producthunt.com/leaderboard/daily/2013/12/16,Get your audience to help you decide what to write about.,"['Web App', 'Tech']",3,77
+Tydlig,https://www.producthunt.com/products/tydlig,https://www.producthunt.com/leaderboard/daily/2013/12/16,The calculator reimagined for iOS 7,['Tech'],3,69
+The Hunt,https://www.producthunt.com/products/the-hunt,https://www.producthunt.com/leaderboard/daily/2013/12/16,Helpers hunt down products you covet.,['Tech'],1,59
+Startup Framework,https://www.producthunt.com/products/designmodo,https://www.producthunt.com/leaderboard/daily/2013/12/16,Suit up your startup.,['Tech'],2,103
+Points,https://www.producthunt.com/products/points,https://www.producthunt.com/leaderboard/daily/2013/12/16,The most advance wayfinding system on earth,['Tech'],0,60
+ReadrBoard,https://www.producthunt.com/products/readrboard,https://www.producthunt.com/leaderboard/daily/2013/12/16,Capture reader reaction to content on your website or blog,['Tech'],3,75
+Moments.me,https://www.producthunt.com/products/moments-me,https://www.producthunt.com/leaderboard/daily/2013/12/16,iPad photo book app w/ same-day pickup at Walgreens,['Tech'],2,60
+YayNay,https://www.producthunt.com/products/yaynay,https://www.producthunt.com/leaderboard/daily/2013/12/16,Easiest way to get second opinions from your friends,['Tech'],1,65
+Reaction Housing,https://www.producthunt.com/products/reaction-housing,https://www.producthunt.com/leaderboard/daily/2013/12/16,Rapid response emergency housing,['Tech'],1,60
+MIWIFI by Xiaomi,https://www.producthunt.com/products/miwifi-by-xiaomi,https://www.producthunt.com/leaderboard/daily/2013/12/16,Wifi router beta with a twist: you build it yourself,['Tech'],7,60
+Dare,https://www.producthunt.com/products/dare,https://www.producthunt.com/leaderboard/daily/2013/12/16,Mobile Video AMA ,['Tech'],8,58
+Helpouts By Google,https://www.producthunt.com/products/google,https://www.producthunt.com/leaderboard/daily/2013/12/16,Real help from real people in real time.,['Tech'],1,78
+Munchery,https://www.producthunt.com/products/munchery,https://www.producthunt.com/leaderboard/daily/2013/12/17,Wholesome meals in a snap,['Tech'],3,140
+Keezy,https://www.producthunt.com/products/keezy,https://www.producthunt.com/leaderboard/daily/2013/12/17,Turn your iPhone into an instrument,"['iOS', 'iPad', 'Tech']",15,89
+Velocity,https://www.producthunt.com/products/velocity,https://www.producthunt.com/leaderboard/daily/2013/12/17,"Read faster, one word at a time",['Tech'],12,86
+Potluck,https://www.producthunt.com/products/potluck-2,https://www.producthunt.com/leaderboard/daily/2013/12/17,Bite-sized  news and facts  to talk about,['Tech'],26,117
+Froont,https://www.producthunt.com/products/froont,https://www.producthunt.com/leaderboard/daily/2013/12/17,"Responsive web design, the visual way.",['Tech'],4,72
+Ding Dong,https://www.producthunt.com/products/ding-dong,https://www.producthunt.com/leaderboard/daily/2013/12/17,"""What's up"" in one tap",['Tech'],11,85
+Macaw,https://www.producthunt.com/products/macaw,https://www.producthunt.com/leaderboard/daily/2013/12/17,The code-savvy web design tool,['Tech'],3,73
+Krush,https://www.producthunt.com/products/krush,https://www.producthunt.com/leaderboard/daily/2013/12/17,Lifestyle driven marketplace,['Tech'],5,61
+Storefront,https://www.producthunt.com/products/storefront,https://www.producthunt.com/leaderboard/daily/2013/12/17,Find short-term retail space to sell in,"['Jewelry', 'Fashion', 'Art']",4,124
+Iron Man Mark III,https://www.producthunt.com/products/iron-man-mark-iii,https://www.producthunt.com/leaderboard/daily/2013/12/17,"Now ready for pre-order, an actual Iron Man suit",['Tech'],2,62
+Question Block Lamp,https://www.producthunt.com/products/question-block-lamp,https://www.producthunt.com/leaderboard/daily/2013/12/17,Mario-Inspired Touch Sensitive Lamp,['Tech'],3,67
+Deck,https://www.producthunt.com/products/deck,https://www.producthunt.com/leaderboard/daily/2013/12/17,Presentations for the Post-PC era.,['Tech'],1,64
+Write Monkey,https://www.producthunt.com/products/write-monkey,https://www.producthunt.com/leaderboard/daily/2013/12/17,Offline writing software,['Tech'],4,60
+24 Hours of Happy,https://www.producthunt.com/products/24-hours-of-happy,https://www.producthunt.com/leaderboard/daily/2013/12/17,Pharrell's 24 Hour Music Video,['Tech'],6,69
+CloudMagic,https://www.producthunt.com/products/cloudmagic,https://www.producthunt.com/leaderboard/daily/2013/12/17,The mail app with magical search,['Tech'],1,71
+Cameo,https://www.producthunt.com/products/cameo-2,https://www.producthunt.com/leaderboard/daily/2013/12/17,"Video creation mobile app - create beautiful ""Cameos""",['Tech'],3,67
+Ubooly,https://www.producthunt.com/products/ubooly,https://www.producthunt.com/leaderboard/daily/2013/12/17,The learning toy that listens,['Tech'],1,62
+Duolingo,https://www.producthunt.com/products/duolingo,https://www.producthunt.com/leaderboard/daily/2013/12/18,Learn languages completely free.,"['iOS', 'Web App', 'Languages']",36,207
+Webflow,https://www.producthunt.com/products/webflow,https://www.producthunt.com/leaderboard/daily/2013/12/18,All-in-one web design platform,"['Web App', 'Design Tools', 'User Experience']",18,270
+Day One,https://www.producthunt.com/products/day-one-journal,https://www.producthunt.com/leaderboard/daily/2013/12/18,"A simple journal for iPhone, iPad and OSX. ","['iOS', 'iPad', 'Mac']",5,104
+Canary,https://www.producthunt.com/products/canary-2,https://www.producthunt.com/leaderboard/daily/2013/12/18,Smart home security for everyone,"['Android', 'iOS', 'Home']",6,100
+Pixelmator,https://www.producthunt.com/products/pixelmator,https://www.producthunt.com/leaderboard/daily/2013/12/18,"By far the best, lightest, and cheapest visual design tool. ","['iPad', 'Mac', 'Photography']",5,88
+Moves,https://www.producthunt.com/products/moves,https://www.producthunt.com/leaderboard/daily/2013/12/18,Activity tracking without gadgets,['Tech'],6,72
+Memrise,https://www.producthunt.com/products/memrise,https://www.producthunt.com/leaderboard/daily/2013/12/18,Learn Anything,['Tech'],7,68
+Capptivate,https://www.producthunt.com/products/capptivate,https://www.producthunt.com/leaderboard/daily/2013/12/18,Animated Mobile App Patterns,"['iOS', 'Tech']",5,133
+Writer Pro,https://www.producthunt.com/products/writer-pro,https://www.producthunt.com/leaderboard/daily/2013/12/18,Note. Write. Edit.,"['Android', 'iOS', 'Mac']",6,119
+Envoy,https://www.producthunt.com/products/envoy,https://www.producthunt.com/leaderboard/daily/2013/12/18,Elegantly greet visitors to your office (pre-launch),['Tech'],9,88
+Uncover,https://www.producthunt.com/products/uncoverr,https://www.producthunt.com/leaderboard/daily/2013/12/18,Reward Your Employees,['Tech'],0,63
+Silvrback,https://www.producthunt.com/products/silvrback,https://www.producthunt.com/leaderboard/daily/2013/12/18,Distraction-free blogging. Own your brand. ,['Tech'],8,81
+Airmail,https://www.producthunt.com/products/airmail,https://www.producthunt.com/leaderboard/daily/2013/12/18,Lightning fast mail client for OS X,['Tech'],5,76
+LiveMinutes,https://www.producthunt.com/products/liveminutes,https://www.producthunt.com/leaderboard/daily/2013/12/18,Team chat and document collaboration,['Tech'],5,89
+Canary,https://www.producthunt.com/products/canary-3,https://www.producthunt.com/leaderboard/daily/2013/12/18,Uptime monitoring for everyone,['Tech'],2,66
+Circa,https://www.producthunt.com/products/circa,https://www.producthunt.com/leaderboard/daily/2013/12/18,News app with high quality curated content,['Tech'],3,77
+Wallaby Financial,https://www.producthunt.com/products/wallaby-financial,https://www.producthunt.com/leaderboard/daily/2013/12/18,Optimize your credit card usage with one smart card.,['Tech'],4,87
+One Month Rails,https://www.producthunt.com/products/one-month-rails,https://www.producthunt.com/leaderboard/daily/2013/12/19,The easiest way ever developed to Learn to Code,['Tech'],9,81
+UberConference,https://www.producthunt.com/products/uberconference-by-dialpad,https://www.producthunt.com/leaderboard/daily/2013/12/19,Stress-free conference calls,['Tech'],5,74
+Prismatic 2.0,https://www.producthunt.com/products/prismatic-2-0,https://www.producthunt.com/leaderboard/daily/2013/12/19,Social news app,"['iOS', 'Tech']",6,138
+Signals,https://www.producthunt.com/products/signals,https://www.producthunt.com/leaderboard/daily/2013/12/19,See who opens your email,['Tech'],5,89
+Vidme,https://www.producthunt.com/products/vidme,https://www.producthunt.com/leaderboard/daily/2013/12/19,Instant and anonymous video hosting,"['Android', 'iOS', 'Tech']",12,84
+Bevel,https://www.producthunt.com/products/bevel,https://www.producthunt.com/leaderboard/daily/2013/12/19,Shaving system designed to reduce shaving irritation,"['Health & Fitness', 'Tech']",5,91
+Layer Vault,https://www.producthunt.com/products/layer-vault,https://www.producthunt.com/leaderboard/daily/2013/12/19,Version control for designers,['Tech'],0,64
+Ambassador,https://www.producthunt.com/products/ambassador,https://www.producthunt.com/leaderboard/daily/2013/12/19,"Referral Automation, Made Easy",['Tech'],3,75
+New Readability,https://www.producthunt.com/products/new-readability,https://www.producthunt.com/leaderboard/daily/2013/12/19,"Read Comfortably— Anytime, Anywhere",['Tech'],6,67
+PKPKT,https://www.producthunt.com/products/pkpkt,https://www.producthunt.com/leaderboard/daily/2013/12/19,Steal money from friends and strangers,['Tech'],3,62
+Strongsync,https://www.producthunt.com/products/strongsync,https://www.producthunt.com/leaderboard/daily/2013/12/19,Dropbox-like Sync and Backup using only SFTP or Amazon S3,['Tech'],0,61
+Are You a Human?,https://www.producthunt.com/products/are-you-a-human,https://www.producthunt.com/leaderboard/daily/2013/12/19,Ending the CAPTCHA agony in a unique way.,['Tech'],7,67
+Friendlibs,https://www.producthunt.com/products/friendlibs,https://www.producthunt.com/leaderboard/daily/2013/12/19,Make Buzzfeed-like list articles about your friends,['Tech'],3,61
+Listly,https://www.producthunt.com/products/listly,https://www.producthunt.com/leaderboard/daily/2013/12/19,Listly is lists made social and fun!,['Tech'],1,102
+ScreenSteps,https://www.producthunt.com/products/screensteps,https://www.producthunt.com/leaderboard/daily/2013/12/19,Write better help articles for your support knowledge base,['Tech'],3,95
+Taasky,https://www.producthunt.com/products/taasky,https://www.producthunt.com/leaderboard/daily/2013/12/19,Sexy to-do list app,['Tech'],3,71
+Fotokite,https://www.producthunt.com/products/fotokite,https://www.producthunt.com/leaderboard/daily/2013/12/19,"A flying camera that works anytime, anywhere",['Tech'],1,77
+Penflip,https://www.producthunt.com/products/penflip,https://www.producthunt.com/leaderboard/daily/2013/12/20,A social writing platform,['Tech'],15,135
+Origami,https://www.producthunt.com/products/origami,https://www.producthunt.com/leaderboard/daily/2013/12/20,A free design prototyping toolkit for Quartz Composer,['Tech'],2,93
+StatusPage,https://www.producthunt.com/products/statuspage,https://www.producthunt.com/leaderboard/daily/2013/12/20,Better Server Status Communication,['Tech'],0,89
+Snapchat 6.1,https://www.producthunt.com/products/snapchat-6-1,https://www.producthunt.com/leaderboard/daily/2013/12/20,"New Smart Filters, Replay, Front-Facing Flash & More.",['Tech'],24,95
+Rumpl,https://www.producthunt.com/products/rumpl,https://www.producthunt.com/leaderboard/daily/2013/12/20,World's best blanket,['Tech'],4,78
+Narrative,https://www.producthunt.com/products/narrative,https://www.producthunt.com/leaderboard/daily/2013/12/20,Ambient Photo Diary,['Tech'],4,64
+NewDo,https://www.producthunt.com/products/newdo,https://www.producthunt.com/leaderboard/daily/2013/12/20,Find Your Perfect Hairstyle,['Tech'],6,59
+Timeless Box,https://www.producthunt.com/products/timeless-box,https://www.producthunt.com/leaderboard/daily/2013/12/20,Time Travel for Gifts in a Box,['Tech'],2,62
+Aurora,https://www.producthunt.com/products/aurora,https://www.producthunt.com/leaderboard/daily/2013/12/20,The Dream-Enhancing Headband,['Tech'],3,56
+Goodmouth,https://www.producthunt.com/products/goodmouth,https://www.producthunt.com/leaderboard/daily/2013/12/20,Oral Care. Delivered. :),['Tech'],10,68
+Workflowy,https://www.producthunt.com/products/workflowy,https://www.producthunt.com/leaderboard/daily/2013/12/21,Turn your entire life into a list.,"['Android', 'iOS', 'iPad']",23,137
+Plowz,https://www.producthunt.com/products/plowz,https://www.producthunt.com/leaderboard/daily/2013/12/21,On-demand snow plows,['Tech'],15,105
+Tessel 2,https://www.producthunt.com/products/tessel-2,https://www.producthunt.com/leaderboard/daily/2013/12/21,Hardware development for software developers.,['Tech'],2,73
+Napwell,https://www.producthunt.com/products/napwell,https://www.producthunt.com/leaderboard/daily/2013/12/21,Sleep mask that simulates a sunrise.,['Tech'],1,67
+Julibox,https://www.producthunt.com/products/julibox,https://www.producthunt.com/leaderboard/daily/2013/12/21,"Curated, artisan cocktails delivered to your door. ",['Tech'],0,57
+Lyve,https://www.producthunt.com/products/lyve,https://www.producthunt.com/leaderboard/daily/2013/12/21,Formerly stealth startup Black Pearl Systems reveals Lyve,['Tech'],1,56
+Haberdash,https://www.producthunt.com/products/haberdash,https://www.producthunt.com/leaderboard/daily/2013/12/21,Create stunning photo-cushions in a matter of moments,['Tech'],5,60
+Mention,https://www.producthunt.com/products/mention,https://www.producthunt.com/leaderboard/daily/2013/12/22,Better Google alerts.,['Tech'],16,202
+Doodle,https://www.producthunt.com/products/doodle,https://www.producthunt.com/leaderboard/daily/2013/12/22,Doodle simplifies scheduling.,['Tech'],12,229
+Shake,https://www.producthunt.com/products/shake,https://www.producthunt.com/leaderboard/daily/2013/12/22,Simple legal document creation,['Tech'],6,96
+Clerky,https://www.producthunt.com/products/clerky,https://www.producthunt.com/leaderboard/daily/2013/12/22,Startup Legal Setup Assistance,['Tech'],3,81
+Fragment,https://www.producthunt.com/products/fragment,https://www.producthunt.com/leaderboard/daily/2013/12/22,Prismatic Photos,['Tech'],6,115
+Intercourse,https://www.producthunt.com/products/intercourse,https://www.producthunt.com/leaderboard/daily/2013/12/22,Improve your pitch,['Tech'],2,63
+Christmas.am,https://www.producthunt.com/products/christmas-am,https://www.producthunt.com/leaderboard/daily/2013/12/22,The best gifts on Amazon.,['Tech'],2,89
+Nike+ Running 4.5,https://www.producthunt.com/products/nike-running-4-5,https://www.producthunt.com/leaderboard/daily/2013/12/22,New Nike+Coach = tips & routines for runners,['Tech'],6,80
+Unstuff,https://www.producthunt.com/products/unstuff,https://www.producthunt.com/leaderboard/daily/2013/12/22,Push Button. Save Christmas.,['Tech'],2,82
+Cloudup,https://www.producthunt.com/products/cloudup,https://www.producthunt.com/leaderboard/daily/2013/12/22,"Share video, photos, music, links and files.","['Web App', 'Tech']",2,68
+iFunny 3.0,https://www.producthunt.com/products/ifunny-3-0,https://www.producthunt.com/leaderboard/daily/2013/12/22,Create and Share Memes,['Tech'],2,57
+Teespring,https://www.producthunt.com/products/teespring,https://www.producthunt.com/leaderboard/daily/2013/12/23,Create & sell t-shirts you can be proud of,['Tech'],6,104
+MyFitnessPal,https://www.producthunt.com/products/myfitnesspal,https://www.producthunt.com/leaderboard/daily/2013/12/23,"Free Calorie Counter , diet and excercise journal.","['Android', 'iOS', 'Health & Fitness']",4,68
+The Latest,https://www.producthunt.com/products/the-latest,https://www.producthunt.com/leaderboard/daily/2013/12/23,Automatic list of the latest & greatest links from Twitter,"['Web App', 'Social Network', 'Tech']",10,91
+Fluid UI,https://www.producthunt.com/products/fluid-ui,https://www.producthunt.com/leaderboard/daily/2013/12/23,The World's #1 Wireframing & Prototyping Tool,"['Prototyping', 'Tech']",3,65
+Structure,https://www.producthunt.com/products/structure,https://www.producthunt.com/leaderboard/daily/2013/12/23,3D Sensor for iOS,['Tech'],7,106
+Sketching with CSS,https://www.producthunt.com/products/sketching-with-css,https://www.producthunt.com/leaderboard/daily/2013/12/23,Write css as fast as you can Sketch,['Tech'],2,73
+Gif Yourself,https://www.producthunt.com/products/gif-yourself,https://www.producthunt.com/leaderboard/daily/2013/12/23,Add your face to a GIF,['Tech'],3,76
+Startup Boards,https://www.producthunt.com/products/startup-boards,https://www.producthunt.com/leaderboard/daily/2013/12/23,Book by Brad Feld: Getting the Most Out of Your Board,['Tech'],1,97
+Peek,https://www.producthunt.com/products/peek,https://www.producthunt.com/leaderboard/daily/2013/12/23,Last minute travel plans.,['Tech'],9,86
+Fitstar,https://www.producthunt.com/products/fitstar,https://www.producthunt.com/leaderboard/daily/2013/12/23,Personalized video workouts for mobile,['Tech'],1,63
+Curious,https://www.producthunt.com/products/curious,https://www.producthunt.com/leaderboard/daily/2013/12/23,A better way to learn anything!,['Tech'],2,66
+RelateIQ,https://www.producthunt.com/products/relateiq,https://www.producthunt.com/leaderboard/daily/2013/12/24,Better Relationships. Smarter Decisions.,['Tech'],5,122
+ReadingPack,https://www.producthunt.com/products/readingpack,https://www.producthunt.com/leaderboard/daily/2013/12/24,Shared Reading List (like Pocket but social),['Tech'],13,82
+Tlk ,https://www.producthunt.com/products/tlk,https://www.producthunt.com/leaderboard/daily/2013/12/24,A simple web chat,['Tech'],3,95
+Sugarcube,https://www.producthunt.com/products/sugarcube,https://www.producthunt.com/leaderboard/daily/2013/12/24,Share media with your TV from any device.,['Tech'],1,66
+Wildcard,https://www.producthunt.com/products/wildcard,https://www.producthunt.com/leaderboard/daily/2013/12/24,Twitter/Potluck-esque cards for the rest of the web,['Tech'],5,87
+Creative Market,https://www.producthunt.com/products/creative-market,https://www.producthunt.com/leaderboard/daily/2013/12/24,The world's marketplace for design,"['Design Tools', 'Tech']",0,103
+OptimizeMe,https://www.producthunt.com/products/optimizeme,https://www.producthunt.com/leaderboard/daily/2013/12/24,Quantified Self App Interpreting Your Data,['Tech'],8,62
+Rushmore,https://www.producthunt.com/products/rushmore,https://www.producthunt.com/leaderboard/daily/2013/12/24,Bringing music fans and music artists closer together,['Tech'],1,63
+Griddr,https://www.producthunt.com/products/griddr,https://www.producthunt.com/leaderboard/daily/2013/12/24,Griddr's Dot Grid Book,['Tech'],0,60
+Just Porter,https://www.producthunt.com/products/just-porter,https://www.producthunt.com/leaderboard/daily/2013/12/24,Reinventing the Backpack,['Tech'],0,56
+Momentage,https://www.producthunt.com/products/momentage,https://www.producthunt.com/leaderboard/daily/2013/12/24,A Community for creatives,['Tech'],0,54
+22tracks,https://www.producthunt.com/products/22tracks,https://www.producthunt.com/leaderboard/daily/2013/12/25,Music Playlists Curated by DJ's Across the World,['Tech'],3,105
+Quip,https://www.producthunt.com/products/quip,https://www.producthunt.com/leaderboard/daily/2013/12/25,Beautiful documents on any device.,['Tech'],4,92
+Fraggl,https://www.producthunt.com/products/fraggl,https://www.producthunt.com/leaderboard/daily/2013/12/25,surface unmissable content on Twitter,['Tech'],3,54
+Remotely,https://www.producthunt.com/products/remotely,https://www.producthunt.com/leaderboard/daily/2013/12/25,Hire talented people that enjoy working remotely,['Tech'],8,127
+Sugru Magnet Kit,https://www.producthunt.com/products/sugru-magnet-kit,https://www.producthunt.com/leaderboard/daily/2013/12/25,Attach anything to anything with sugru + magnets!,['Tech'],1,61
+CircleCI,https://www.producthunt.com/products/circleci,https://www.producthunt.com/leaderboard/daily/2013/12/26,"Ship better code, faster",['Tech'],0,84
+Just Landed,https://www.producthunt.com/products/just-landed,https://www.producthunt.com/leaderboard/daily/2013/12/26,Making Airport Pickup Easy,['Tech'],10,103
+Popcorn Messaging,https://www.producthunt.com/products/popcorn-messaging,https://www.producthunt.com/leaderboard/daily/2013/12/26,Privately chat with others within 1 mile of your location,"['iOS', 'Messaging', 'Tech']",3,72
+Exercism,https://www.producthunt.com/products/exercism,https://www.producthunt.com/leaderboard/daily/2013/12/27,Crowd-sourced code reviews on daily practice problems,['Tech'],7,91
+Partnered ,https://www.producthunt.com/products/partnered,https://www.producthunt.com/leaderboard/daily/2013/12/27,A platform for brands and startups to build partnerships,['Tech'],3,94
+WaterForward,https://www.producthunt.com/products/waterforward,https://www.producthunt.com/leaderboard/daily/2013/12/27,Charity done right (viral fundraising for charity:water),"['Web App', 'Charity & Giving', 'Tech']",9,69
+Perch,https://www.producthunt.com/products/perch,https://www.producthunt.com/leaderboard/daily/2013/12/27,Small business reputation and review monitoring,['Tech'],2,75
+Meta - AR Glasses,https://www.producthunt.com/products/meta-ar-glasses,https://www.producthunt.com/leaderboard/daily/2013/12/27,The first holographic interface.,['Tech'],3,73
+Board,https://www.producthunt.com/products/board,https://www.producthunt.com/leaderboard/daily/2013/12/27,"Inspiration is your secret sauce, keep it private.",['Tech'],4,62
+Numbrs,https://www.producthunt.com/products/numbrs,https://www.producthunt.com/leaderboard/daily/2013/12/28,One app. Every bank.,"['iOS', 'Tech']",6,102
+Editorially,https://www.producthunt.com/products/editorially,https://www.producthunt.com/leaderboard/daily/2013/12/28,Collaborative writing tool ,"['Text Editors', 'Tech']",4,95
+Itch.io,https://www.producthunt.com/products/itch-io,https://www.producthunt.com/leaderboard/daily/2013/12/28,Pay-What-You-Want Indie Game Store,['Tech'],8,66
+Give,https://www.producthunt.com/products/give,https://www.producthunt.com/leaderboard/daily/2013/12/28,"With each purchase, we'll donate 1 to a family who needs it",['Tech'],0,60
+Copilot,https://www.producthunt.com/products/copilot-2,https://www.producthunt.com/leaderboard/daily/2013/12/28,Restaurant performance benchmarking via email,['Tech'],3,57
+Wallmob,https://www.producthunt.com/products/wallmob,https://www.producthunt.com/leaderboard/daily/2013/12/28,Enterprise point of sale,['Tech'],1,54
+Snappi,https://www.producthunt.com/products/snappi,https://www.producthunt.com/leaderboard/daily/2013/12/28,Send snapshots and files to friends in seconds.,['Tech'],2,63
+Fifty United Plates,https://www.producthunt.com/products/fifty-united-plates,https://www.producthunt.com/leaderboard/daily/2013/12/28,Plates shaped like your state!,['Tech'],2,79
+Kung Fury,https://www.producthunt.com/products/kung-fury,https://www.producthunt.com/leaderboard/daily/2013/12/29,"Visually spectacular, campy 80s action comedy",['Tech'],5,76
+Spark Camera,https://www.producthunt.com/products/spark-camera,https://www.producthunt.com/leaderboard/daily/2013/12/29,Make memorable videos,['Tech'],0,74
+Cleartrip,https://www.producthunt.com/products/cleartrip,https://www.producthunt.com/leaderboard/daily/2013/12/29,KAYAK.com for India and Middle East,['Tech'],4,64
+TicTrac,https://www.producthunt.com/products/tictrac,https://www.producthunt.com/leaderboard/daily/2013/12/29,Track all your activities and discover what makes you tick.,['Tech'],0,56
+Get UDID,https://www.producthunt.com/products/get-udid,https://www.producthunt.com/leaderboard/daily/2013/12/29,Find the UDID of an iPhone/iPad without having to use iTunes,['Tech'],1,82
+Sunrise,https://www.producthunt.com/products/sunrise,https://www.producthunt.com/leaderboard/daily/2013/12/30,Beautifully designed calendar app,"['Android', 'iOS', 'Mac']",35,183
+Deckset,https://www.producthunt.com/products/deckset,https://www.producthunt.com/leaderboard/daily/2013/12/30,Create beautiful presentations from markdown,['Tech'],4,98
+Couple,https://www.producthunt.com/products/couple,https://www.producthunt.com/leaderboard/daily/2013/12/30,An app for two,['Tech'],12,74
+Wanderu,https://www.producthunt.com/products/wanderu,https://www.producthunt.com/leaderboard/daily/2013/12/30,Kayak for bus and train travel. ,"['Android', 'iOS', 'Web App']",2,105
+Fito Group Fitness ,https://www.producthunt.com/products/fito-group-fitness,https://www.producthunt.com/leaderboard/daily/2013/12/30,"Convenient, effective fitness coaching to reach any goal.",['Tech'],7,72
+Embed Curl,https://www.producthunt.com/products/embed-curl,https://www.producthunt.com/leaderboard/daily/2013/12/30,"Embeddable curl commands for your web site, blog or API docs",['Tech'],0,62
+Coinbase Merchant,https://www.producthunt.com/products/coinbase-merchant,https://www.producthunt.com/leaderboard/daily/2013/12/30,Android POS app to let any store accept Bitcoin,['Tech'],0,70
+Conference Badge  ,https://www.producthunt.com/products/conference-badge,https://www.producthunt.com/leaderboard/daily/2013/12/30,Name badges. Easy and fast.,['Tech'],1,96
+Musixmatch,https://www.producthunt.com/products/musixmatch,https://www.producthunt.com/leaderboard/daily/2013/12/30,The world's largest lyrics catalog,['Tech'],1,66
+MixBit,https://www.producthunt.com/products/mixbit,https://www.producthunt.com/leaderboard/daily/2013/12/30,Create dynamic videos together.,['Tech'],1,62
+BeFIT,https://www.producthunt.com/products/befit,https://www.producthunt.com/leaderboard/daily/2013/12/30,Track anything anywhere,['Tech'],5,55
+Selz,https://www.producthunt.com/products/selz,https://www.producthunt.com/leaderboard/daily/2013/12/30,Seriously simple selling,"['E-Commerce', 'Tech']",1,63
+Flinto,https://www.producthunt.com/products/flinto,https://www.producthunt.com/leaderboard/daily/2013/12/31,Quickly Create iOS Prototypes,['Tech'],7,85
+Red Pen,https://www.producthunt.com/products/red-pen,https://www.producthunt.com/leaderboard/daily/2013/12/31,Effing Fast Feedback,['Tech'],8,96
+Jukely,https://www.producthunt.com/products/jukely,https://www.producthunt.com/leaderboard/daily/2013/12/31,Matchmaker for concerts + friends,['Tech'],25,90
+CloudApp,https://www.producthunt.com/products/zight,https://www.producthunt.com/leaderboard/daily/2013/12/31,Great screenshot sharing tool,['Tech'],6,72
+Limitless,https://www.producthunt.com/products/limitless,https://www.producthunt.com/leaderboard/daily/2013/12/31,A productivity companion for Chrome,['Tech'],9,95
+Ecoute for iOS,https://www.producthunt.com/products/ecoute-for-ios,https://www.producthunt.com/leaderboard/daily/2013/12/31,Highlight your music,['Tech'],5,68
+Seven-minute workout,https://www.producthunt.com/products/seven-minute-workout,https://www.producthunt.com/leaderboard/daily/2013/12/31,Beautiful and simple. ,['Tech'],0,81
+Flipagram,https://www.producthunt.com/products/flipagram,https://www.producthunt.com/leaderboard/daily/2013/12/31,Bring moments to life.,"['Android', 'iOS', 'Photography']",3,78
+Composite,https://www.producthunt.com/products/composite,https://www.producthunt.com/leaderboard/daily/2013/12/31,Make your photoshops prototypes interactive!,['Tech'],1,65
+Reppio,https://www.producthunt.com/products/reppio,https://www.producthunt.com/leaderboard/daily/2013/12/31,"""The Fancy"" for SMBs",['Tech'],0,55
+Flair,https://www.producthunt.com/products/flair,https://www.producthunt.com/leaderboard/daily/2013/12/31,Browse fashion districts and styles around the world,['Tech'],2,56
+Twine,https://www.producthunt.com/products/twine-2,https://www.producthunt.com/leaderboard/daily/2013/12/31,Flirt Anonymously,['Tech'],3,61
